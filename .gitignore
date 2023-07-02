@@ -1,4 +1,7 @@
 /skia
 /depot_tools
+x64/
+.vs/
+*.user
 *.zip
 __pycache__

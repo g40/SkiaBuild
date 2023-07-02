@@ -1,0 +1,4754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1400 980"
+   version="1.1"
+   id="svg1225"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs516">
+    <style
+       id="style2">.cls-1{fill:url(#radial-gradient);}.cls-2{fill:url(#radial-gradient-2);}.cls-3{fill:url(#radial-gradient-3);}.cls-4{fill:url(#linear-gradient);}.cls-5{fill:url(#linear-gradient-2);}.cls-6{fill:url(#linear-gradient-3);}.cls-7{fill:#6d6e71;}.cls-8{fill:url(#Blue);}.cls-9{fill:url(#radial-gradient-4);}.cls-10{fill:url(#radial-gradient-5);}.cls-11{fill:url(#linear-gradient-4);}.cls-12{fill:url(#linear-gradient-5);}.cls-13{fill:url(#linear-gradient-6);}.cls-14{fill:url(#Blue_Green);}.cls-15{fill:url(#radial-gradient-6);}.cls-16{fill:url(#radial-gradient-7);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:url(#linear-gradient-9);}.cls-20{fill:url(#Green);}.cls-21{fill:url(#linear-gradient-10);}.cls-22{fill:url(#linear-gradient-11);}.cls-23{fill:url(#linear-gradient-12);}.cls-24{fill:url(#linear-gradient-13);}.cls-25{fill:url(#Blackstone);}.cls-26{fill:url(#linear-gradient-14);}.cls-27{fill:url(#radial-gradient-8);}.cls-28{fill:#f15a29;}.cls-29{fill:#ef4136;}.cls-30{fill:#252326;}.cls-31{fill:#f7941d;}.cls-32{fill:#ed1c24;}.cls-232,.cls-33{fill:#f9ed32;}.cls-236,.cls-34{fill:#fbb040;}.cls-35{fill:url(#radial-gradient-9);}.cls-36{fill:url(#radial-gradient-10);}.cls-37{fill:url(#radial-gradient-11);}.cls-38{fill:url(#linear-gradient-15);}.cls-39{fill:url(#linear-gradient-16);}.cls-40{fill:url(#linear-gradient-17);}.cls-41{fill:url(#Gold);}.cls-42{fill:url(#Blackstone-2);}.cls-43{fill:url(#linear-gradient-18);}.cls-44{fill:url(#Blackstone-3);}.cls-45{fill:url(#linear-gradient-19);}.cls-46{fill:url(#Blackstone-4);}.cls-47{fill:url(#linear-gradient-20);}.cls-48{fill:url(#Blackstone-5);}.cls-49{fill:url(#linear-gradient-21);}.cls-50{fill:url(#linear-gradient-22);}.cls-51{fill:url(#Gold-2);}.cls-52{fill:url(#Fade_to_Black_2);}.cls-53{fill:url(#linear-gradient-23);}.cls-54{fill:url(#linear-gradient-24);}.cls-55{fill:url(#linear-gradient-25);}.cls-56{fill:url(#Gold-3);}.cls-57{fill:url(#Blackstone-6);}.cls-58{fill:url(#linear-gradient-26);}.cls-59{fill:url(#Blackstone-7);}.cls-60{fill:url(#linear-gradient-27);}.cls-61{fill:url(#Blackstone-8);}.cls-62{fill:url(#linear-gradient-28);}.cls-63{fill:url(#linear-gradient-29);}.cls-64{fill:url(#linear-gradient-30);}.cls-65{fill:url(#Fade_to_Black_2-2);}.cls-66{fill:url(#linear-gradient-31);}.cls-67{fill:url(#linear-gradient-32);}.cls-68{fill:url(#linear-gradient-33);}.cls-69{fill:url(#linear-gradient-34);}.cls-70{fill:url(#linear-gradient-35);}.cls-71{fill:url(#Blackstone-9);}.cls-72{fill:url(#linear-gradient-36);}.cls-73{fill:url(#Blackstone-10);}.cls-74{fill:url(#linear-gradient-37);}.cls-75{fill:url(#Blackstone-11);}.cls-76{fill:url(#linear-gradient-38);}.cls-77{fill:url(#Blackstone-12);}.cls-78{fill:url(#linear-gradient-39);}.cls-79{fill:url(#Blackstone-13);}.cls-80{fill:url(#linear-gradient-40);}.cls-81{fill:url(#linear-gradient-41);}.cls-82{fill:url(#Blackstone-14);}.cls-83{fill:url(#linear-gradient-42);}.cls-84{fill:url(#linear-gradient-43);}.cls-85{fill:url(#linear-gradient-44);}.cls-86{fill:url(#Blackstone-15);}.cls-87{fill:url(#linear-gradient-45);}.cls-88{fill:url(#linear-gradient-46);}.cls-89{fill:url(#linear-gradient-47);}.cls-90{fill:url(#Blackstone-16);}.cls-91{fill:url(#linear-gradient-48);}.cls-92{fill:url(#linear-gradient-49);}.cls-93{fill:url(#linear-gradient-50);}.cls-94{fill:url(#linear-gradient-51);}.cls-95{fill:url(#radial-gradient-12);}.cls-96{fill:url(#Gold-4);}.cls-97{fill:url(#linear-gradient-52);}.cls-98{fill:url(#linear-gradient-53);}.cls-99{fill:url(#linear-gradient-54);}.cls-100{fill:url(#linear-gradient-55);}.cls-101{fill:url(#linear-gradient-56);}.cls-102{fill:url(#linear-gradient-57);}.cls-103{fill:url(#Blackstone-17);}.cls-104{fill:url(#linear-gradient-58);}.cls-105{fill:url(#Blackstone-18);}.cls-106{fill:url(#radial-gradient-13);}.cls-107{fill:url(#Gold-5);}.cls-108{fill:url(#Blackstone-19);}.cls-109{fill:url(#radial-gradient-14);}.cls-110{fill:url(#Gold-6);}.cls-111{fill:url(#Gold-7);}.cls-112{fill:url(#Blackstone-20);}.cls-113{fill:url(#radial-gradient-15);}.cls-114{fill:url(#Gold-8);}.cls-115{fill:url(#Gold-9);}.cls-116{fill:url(#Blackstone-21);}.cls-117{fill:url(#radial-gradient-16);}.cls-118{fill:url(#Gold-10);}.cls-119{fill:url(#Blackstone-22);}.cls-120{fill:url(#radial-gradient-17);}.cls-121{fill:url(#Gold-11);}.cls-122{fill:url(#linear-gradient-59);}.cls-123{fill:url(#linear-gradient-60);}.cls-124{fill:url(#linear-gradient-61);}.cls-125{fill:url(#linear-gradient-62);}.cls-126{fill:url(#linear-gradient-63);}.cls-127{fill:url(#linear-gradient-64);}.cls-128{fill:url(#linear-gradient-65);}.cls-129{fill:url(#linear-gradient-66);}.cls-130{fill:url(#Gold-12);}.cls-131{fill:url(#Blackstone-23);}.cls-132{fill:url(#linear-gradient-67);}.cls-133{fill:url(#radial-gradient-18);}.cls-134{fill:url(#linear-gradient-68);}.cls-135{fill:url(#linear-gradient-69);}.cls-136{fill:url(#linear-gradient-70);}.cls-137{fill:url(#Gold-13);}.cls-138{fill:url(#radial-gradient-19);}.cls-139{fill:url(#linear-gradient-71);}.cls-140{fill:url(#linear-gradient-72);}.cls-141{fill:url(#linear-gradient-73);}.cls-142{fill:url(#Gold-14);}.cls-143{fill:url(#radial-gradient-20);}.cls-144{fill:url(#linear-gradient-74);}.cls-145{fill:url(#linear-gradient-75);}.cls-146{fill:url(#linear-gradient-76);}.cls-147{fill:url(#Gold-15);}.cls-148{fill:url(#radial-gradient-21);}.cls-149{fill:url(#linear-gradient-77);}.cls-150{fill:url(#linear-gradient-78);}.cls-151{fill:url(#linear-gradient-79);}.cls-152{fill:url(#Gold-16);}.cls-153{fill:url(#radial-gradient-22);}.cls-154{fill:url(#linear-gradient-80);}.cls-155{fill:url(#linear-gradient-81);}.cls-156{fill:url(#linear-gradient-82);}.cls-157{fill:url(#Gold-17);}.cls-158{fill:url(#radial-gradient-23);}.cls-159{fill:url(#linear-gradient-83);}.cls-160{fill:url(#linear-gradient-84);}.cls-161{fill:url(#linear-gradient-85);}.cls-162{fill:url(#Gold-18);}.cls-163{fill:url(#radial-gradient-24);}.cls-164{fill:url(#linear-gradient-86);}.cls-165{fill:url(#linear-gradient-87);}.cls-166{fill:url(#linear-gradient-88);}.cls-167{fill:url(#Gold-19);}.cls-168{fill:url(#radial-gradient-25);}.cls-169{fill:url(#linear-gradient-89);}.cls-170{fill:url(#linear-gradient-90);}.cls-171{fill:url(#linear-gradient-91);}.cls-172{fill:url(#Gold-20);}.cls-173{fill:url(#radial-gradient-26);}.cls-174{fill:url(#linear-gradient-92);}.cls-175{fill:url(#linear-gradient-93);}.cls-176{fill:url(#linear-gradient-94);}.cls-177{fill:url(#Gold-21);}.cls-178{fill:url(#radial-gradient-27);}.cls-179{fill:url(#linear-gradient-95);}.cls-180{fill:url(#linear-gradient-96);}.cls-181{fill:url(#linear-gradient-97);}.cls-182{fill:url(#Gold-22);}.cls-183{fill:url(#Blackstone-24);}.cls-184{fill:url(#linear-gradient-98);}.cls-185{fill:url(#Blackstone-25);}.cls-186{fill:url(#linear-gradient-99);}.cls-187{fill:url(#Blackstone-26);}.cls-188{fill:url(#linear-gradient-100);}.cls-189{fill:url(#Blackstone-27);}.cls-190{fill:url(#linear-gradient-101);}.cls-191{fill:url(#Blackstone-28);}.cls-192{fill:url(#linear-gradient-102);}.cls-193{fill:url(#Blackstone-29);}.cls-194{fill:url(#linear-gradient-103);}.cls-195{fill:url(#Blackstone-30);}.cls-196{fill:url(#linear-gradient-104);}.cls-197{fill:url(#Blackstone-31);}.cls-198{fill:url(#linear-gradient-105);}.cls-199{fill:url(#Blackstone-32);}.cls-200{fill:url(#linear-gradient-106);}.cls-201{fill:url(#Blackstone-33);}.cls-202{fill:url(#linear-gradient-107);}.cls-203{fill:url(#Blackstone-34);}.cls-204{fill:url(#linear-gradient-108);}.cls-205{fill:url(#Blackstone-35);}.cls-206{fill:url(#linear-gradient-109);}.cls-207{fill:url(#Blackstone-36);}.cls-208{fill:url(#linear-gradient-110);}.cls-209{fill:url(#Blackstone-37);}.cls-210{fill:url(#linear-gradient-111);}.cls-211{fill:url(#Blackstone-38);}.cls-212{fill:url(#linear-gradient-112);}.cls-213{fill:url(#Blackstone-39);}.cls-214{fill:url(#linear-gradient-113);}.cls-215{fill:url(#Blackstone-40);}.cls-216{fill:url(#linear-gradient-114);}.cls-217{fill:url(#Blackstone-41);}.cls-218{fill:url(#linear-gradient-115);}.cls-219{fill:url(#Blackstone-42);}.cls-220{fill:url(#linear-gradient-116);}.cls-221{fill:url(#Blackstone-43);}.cls-222{fill:url(#linear-gradient-117);}.cls-223{fill:url(#Blackstone-44);}.cls-224{fill:url(#linear-gradient-118);}.cls-225{fill:url(#radial-gradient-28);}.cls-226{fill:url(#radial-gradient-29);}.cls-227{fill:url(#linear-gradient-119);}.cls-228{fill:url(#linear-gradient-120);}.cls-229{fill:url(#linear-gradient-121);}.cls-230{fill:url(#Orange);}.cls-231,.cls-232,.cls-233{font-size:20px;}.cls-231{fill:#58595b;}.cls-231,.cls-232,.cls-233,.cls-234,.cls-235,.cls-240{font-family:OpenSans-Semibold, Open Sans;font-weight:700;}.cls-233,.cls-234{fill:#808285;}.cls-234{font-size:59.81px;}.cls-235{font-size:13.66px;fill:#a7a9ac;}.cls-236{font-size:9px;font-family:OpenSans-Light, Open Sans;}.cls-237{font-size:15px;letter-spacing:0.03em;}.cls-237,.cls-238,.cls-239{fill:#e6e7e8;font-family:OpenSans, Open Sans;}.cls-238,.cls-239{font-size:9.42px;}.cls-238{letter-spacing:0.03em;}.cls-239{letter-spacing:0.02em;}.cls-240{font-size:8px;fill:#d1d3d4;}</style>
+    <radialGradient
+       id="radial-gradient"
+       cx="664"
+       cy="-11.05"
+       r="849.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#212027"
+         id="stop4" />
+      <stop
+         offset="0.52"
+         stop-color="#212027"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#19161b"
+         id="stop8" />
+    </radialGradient>
+    <radialGradient
+       id="radial-gradient-2"
+       cx="148.71"
+       cy="175.62"
+       r="59.6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop11" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop13" />
+      <stop
+         offset="0"
+         stop-color="#afadac"
+         id="stop15" />
+      <stop
+         offset="0"
+         stop-color="#717170"
+         id="stop17" />
+      <stop
+         offset="0"
+         stop-color="#666"
+         id="stop19" />
+      <stop
+         offset="0.26"
+         stop-color="#575757"
+         id="stop21" />
+      <stop
+         offset="0.4"
+         stop-color="#4d4d4d"
+         id="stop23" />
+      <stop
+         offset="0.48"
+         stop-color="#414141"
+         id="stop25" />
+      <stop
+         offset="0.66"
+         stop-color="#2b2b2b"
+         id="stop27" />
+      <stop
+         offset="0.84"
+         stop-color="#1e1e1e"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         id="stop31" />
+    </radialGradient>
+    <radialGradient
+       id="radial-gradient-3"
+       cx="148.71"
+       cy="175.62"
+       r="68.72"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient"
+       x1="109.51"
+       y1="216.21"
+       x2="182.75"
+       y2="140.37"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop35" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop37" />
+      <stop
+         offset="0"
+         stop-color="#afadac"
+         id="stop39" />
+      <stop
+         offset="0"
+         stop-color="#717170"
+         id="stop41" />
+      <stop
+         offset="0"
+         stop-color="#666"
+         id="stop43" />
+      <stop
+         offset="0.26"
+         stop-color="#575757"
+         id="stop45" />
+      <stop
+         offset="0.4"
+         stop-color="#4d4d4d"
+         id="stop47" />
+      <stop
+         offset="0.52"
+         stop-color="#444"
+         id="stop49" />
+      <stop
+         offset="0.77"
+         stop-color="#373737"
+         id="stop51" />
+      <stop
+         offset="1"
+         stop-color="#333"
+         id="stop53" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="-43.32"
+       y1="-1238.95"
+       x2="6.61"
+       y2="-1058.78"
+       gradientTransform="translate(-1023.56 200.46) rotate(90)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop56" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop58" />
+      <stop
+         offset="0"
+         stop-color="#afafae"
+         id="stop60" />
+      <stop
+         offset="0"
+         stop-color="#999"
+         id="stop62" />
+      <stop
+         offset="0.03"
+         stop-color="#8d8d8d"
+         id="stop64" />
+      <stop
+         offset="0.13"
+         stop-color="#717171"
+         id="stop66" />
+      <stop
+         offset="0.22"
+         stop-color="#5d5d5d"
+         id="stop68" />
+      <stop
+         offset="0.31"
+         stop-color="#515151"
+         id="stop70" />
+      <stop
+         offset="0.4"
+         stop-color="#4d4d4d"
+         id="stop72" />
+      <stop
+         offset="0.48"
+         stop-color="#414141"
+         id="stop74" />
+      <stop
+         offset="0.66"
+         stop-color="#2b2b2b"
+         id="stop76" />
+      <stop
+         offset="0.84"
+         stop-color="#1e1e1e"
+         id="stop78" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         id="stop80" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="11.35"
+       y1="-1225.63"
+       x2="-47.06"
+       y2="-1139.52"
+       gradientTransform="translate(-1023.56 200.46) rotate(90)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop83" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop85" />
+      <stop
+         offset="0"
+         stop-color="#afadac"
+         id="stop87" />
+      <stop
+         offset="0"
+         stop-color="#717170"
+         id="stop89" />
+      <stop
+         offset="0"
+         stop-color="#666"
+         id="stop91" />
+      <stop
+         offset="0.26"
+         stop-color="#575757"
+         id="stop93" />
+      <stop
+         offset="0.4"
+         stop-color="#4d4d4d"
+         id="stop95" />
+      <stop
+         offset="0.51"
+         stop-color="#444"
+         id="stop97" />
+      <stop
+         offset="0.73"
+         stop-color="#373737"
+         id="stop99" />
+      <stop
+         offset="0.93"
+         stop-color="#333"
+         id="stop101" />
+    </linearGradient>
+    <linearGradient
+       id="Blue"
+       x1="98.91"
+       y1="129.6"
+       x2="95.76"
+       y2="206.37"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#2bc4f3"
+         id="stop104" />
+      <stop
+         offset="0.5"
+         stop-color="#00aeee"
+         id="stop106" />
+      <stop
+         offset="1"
+         stop-color="#0095da"
+         id="stop108" />
+    </linearGradient>
+    <radialGradient
+       id="radial-gradient-4"
+       cx="148.71"
+       cy="437.18"
+       r="59.6"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-5"
+       cx="148.71"
+       cy="437.18"
+       r="68.72"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-4"
+       x1="109.51"
+       y1="477.77"
+       x2="182.75"
+       y2="401.94"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-5"
+       x1="161.36"
+       y1="-1076.09"
+       x2="211.29"
+       y2="-895.92"
+       gradientTransform="translate(-860.7 257.34) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-6"
+       x1="216.03"
+       y1="-1062.77"
+       x2="157.62"
+       y2="-976.66"
+       gradientTransform="translate(-860.7 257.34) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Blue_Green"
+       x1="124.35"
+       y1="372.5"
+       x2="91.67"
+       y2="462.64"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#8ad0c3"
+         id="stop116" />
+      <stop
+         offset="0.5"
+         stop-color="#00b6a9"
+         id="stop118" />
+      <stop
+         offset="1"
+         stop-color="#00a185"
+         id="stop120" />
+    </linearGradient>
+    <radialGradient
+       id="radial-gradient-6"
+       cx="148.71"
+       cy="707.87"
+       r="59.6"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-7"
+       cx="148.71"
+       cy="707.87"
+       r="68.72"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-7"
+       x1="109.51"
+       y1="748.46"
+       x2="182.75"
+       y2="672.62"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-8"
+       x1="373.17"
+       y1="-907.55"
+       x2="423.11"
+       y2="-727.39"
+       gradientTransform="translate(-692.16 316.21) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-9"
+       x1="427.85"
+       y1="-894.23"
+       x2="369.44"
+       y2="-808.12"
+       gradientTransform="translate(-692.16 316.21) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Green"
+       x1="181.23"
+       y1="654.7"
+       x2="110.9"
+       y2="743.93"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#64c08a"
+         id="stop128" />
+      <stop
+         offset="0.5"
+         stop-color="#00a550"
+         id="stop130" />
+      <stop
+         offset="1"
+         stop-color="#00914c"
+         id="stop132" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-10"
+       x1="148.71"
+       y1="276.73"
+       x2="148.71"
+       y2="331.73"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="linear-gradient-11"
+       x1="148.71"
+       y1="538.3"
+       x2="148.71"
+       y2="593.3"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="linear-gradient-12"
+       x1="148.71"
+       y1="818.1"
+       x2="148.71"
+       y2="873.11"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="linear-gradient-13"
+       x1="1228.38"
+       y1="818.1"
+       x2="1228.38"
+       y2="873.11"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Blackstone"
+       x1="326.52"
+       y1="140"
+       x2="326.52"
+       y2="674.41"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#8f9194"
+         id="stop139" />
+      <stop
+         offset="0.01"
+         stop-color="#8c8e91"
+         id="stop141" />
+      <stop
+         offset="0.11"
+         stop-color="#76787a"
+         id="stop143" />
+      <stop
+         offset="0.22"
+         stop-color="#66686a"
+         id="stop145" />
+      <stop
+         offset="0.33"
+         stop-color="#5d5e60"
+         id="stop147" />
+      <stop
+         offset="0.49"
+         stop-color="#5a5b5d"
+         id="stop149" />
+      <stop
+         offset="0.71"
+         stop-color="#57585a"
+         id="stop151" />
+      <stop
+         offset="0.89"
+         stop-color="#4e4e50"
+         id="stop153" />
+      <stop
+         offset="1"
+         stop-color="#434345"
+         id="stop155" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-14"
+       x1="326.52"
+       y1="66.43"
+       x2="326.52"
+       y2="488.76"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-8"
+       cx="304.86"
+       cy="231.41"
+       r="80.13"
+       xlink:href="#radial-gradient" />
+    <radialGradient
+       id="radial-gradient-9"
+       cx="347.19"
+       cy="231.41"
+       r="80.13"
+       xlink:href="#radial-gradient" />
+    <radialGradient
+       id="radial-gradient-10"
+       cx="326.52"
+       cy="401.16"
+       r="30.28"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-11"
+       cx="326.52"
+       cy="401.16"
+       r="34.92"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-15"
+       x1="306.61"
+       y1="421.78"
+       x2="343.82"
+       y2="383.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-16"
+       x1="252.97"
+       y1="-1204.86"
+       x2="278.34"
+       y2="-1113.32"
+       gradientTransform="translate(-844.46 138.8) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-17"
+       x1="280.75"
+       y1="-1198.09"
+       x2="251.07"
+       y2="-1154.34"
+       gradientTransform="translate(-844.46 138.8) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold"
+       x1="314.14"
+       y1="368.29"
+       x2="297.54"
+       y2="414.09"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ffe7a3"
+         id="stop166" />
+      <stop
+         offset="0.5"
+         stop-color="#ffca05"
+         id="stop168" />
+      <stop
+         offset="1"
+         stop-color="#faac18"
+         id="stop170" />
+    </linearGradient>
+    <linearGradient
+       id="Blackstone-2"
+       x1="327.22"
+       y1="459.73"
+       x2="327.22"
+       y2="494.61"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-18"
+       x1="327.22"
+       y1="456.94"
+       x2="327.22"
+       y2="489.32"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#8f9194"
+         id="stop174" />
+      <stop
+         offset="0.01"
+         stop-color="#8c8e91"
+         id="stop176" />
+      <stop
+         offset="0.07"
+         stop-color="#76787a"
+         id="stop178" />
+      <stop
+         offset="0.14"
+         stop-color="#66686a"
+         id="stop180" />
+      <stop
+         offset="0.21"
+         stop-color="#5d5e60"
+         id="stop182" />
+      <stop
+         offset="0.31"
+         stop-color="#5a5b5d"
+         id="stop184" />
+      <stop
+         offset="1"
+         stop-color="#434345"
+         id="stop186" />
+    </linearGradient>
+    <linearGradient
+       id="Blackstone-3"
+       x1="479.78"
+       y1="140"
+       x2="479.78"
+       y2="674.41"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-19"
+       x1="479.78"
+       y1="66.43"
+       x2="479.78"
+       y2="488.76"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-4"
+       x1="480.48"
+       y1="459.73"
+       x2="480.48"
+       y2="494.61"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-20"
+       x1="480.48"
+       y1="456.94"
+       x2="480.48"
+       y2="489.32"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="Blackstone-5"
+       x1="-1067.61"
+       y1="622.5"
+       x2="-1067.61"
+       y2="603.95"
+       gradientTransform="translate(-143.26 -776.74) rotate(-90)"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-21"
+       x1="-1067.61"
+       y1="620.04"
+       x2="-1067.61"
+       y2="604.89"
+       gradientTransform="translate(-143.26 -776.74) rotate(-90)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#19161b"
+         id="stop194" />
+      <stop
+         offset="0.48"
+         stop-color="#212027"
+         id="stop196" />
+      <stop
+         offset="0.99"
+         stop-color="#212027"
+         id="stop198" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-22"
+       x1="-1067.61"
+       y1="617.59"
+       x2="-1067.61"
+       y2="605.83"
+       gradientTransform="translate(-143.26 -776.74) rotate(-90)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#212027"
+         id="stop201" />
+      <stop
+         offset="0.52"
+         stop-color="#212027"
+         id="stop203" />
+      <stop
+         offset="1"
+         stop-color="#19161b"
+         id="stop205" />
+    </linearGradient>
+    <linearGradient
+       id="Gold-2"
+       x1="465.82"
+       y1="416.67"
+       x2="465.82"
+       y2="304.58"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Fade_to_Black_2"
+       x1="465.82"
+       y1="302.97"
+       x2="465.82"
+       y2="313.16"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#231f20"
+         id="stop209" />
+      <stop
+         offset="1"
+         stop-color="#231f20"
+         stop-opacity="0"
+         id="stop211" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-23"
+       x1="465.82"
+       y1="276.89"
+       x2="465.82"
+       y2="303.06"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop214" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop216" />
+      <stop
+         offset="0"
+         stop-color="#afafae"
+         id="stop218" />
+      <stop
+         offset="0"
+         stop-color="#999"
+         id="stop220" />
+      <stop
+         offset="0.1"
+         stop-color="#8a8a8a"
+         id="stop222" />
+      <stop
+         offset="0.27"
+         stop-color="#666"
+         id="stop224" />
+      <stop
+         offset="0.3"
+         stop-color="#5f5f5f"
+         id="stop226" />
+      <stop
+         offset="0.49"
+         stop-color="#414141"
+         id="stop228" />
+      <stop
+         offset="0.67"
+         stop-color="#2b2b2b"
+         id="stop230" />
+      <stop
+         offset="0.84"
+         stop-color="#1e1e1e"
+         id="stop232" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         id="stop234" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-24"
+       x1="465.82"
+       y1="278.14"
+       x2="465.82"
+       y2="301.02"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#e5e2df"
+         id="stop237" />
+      <stop
+         offset="0"
+         stop-color="#d6d4d1"
+         id="stop239" />
+      <stop
+         offset="0"
+         stop-color="#afadac"
+         id="stop241" />
+      <stop
+         offset="0"
+         stop-color="#717170"
+         id="stop243" />
+      <stop
+         offset="0"
+         stop-color="#666"
+         id="stop245" />
+      <stop
+         offset="0.17"
+         stop-color="#575757"
+         id="stop247" />
+      <stop
+         offset="0.27"
+         stop-color="#4d4d4d"
+         id="stop249" />
+      <stop
+         offset="0.37"
+         stop-color="#414141"
+         id="stop251" />
+      <stop
+         offset="0.59"
+         stop-color="#2b2b2b"
+         id="stop253" />
+      <stop
+         offset="0.8"
+         stop-color="#1e1e1e"
+         id="stop255" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         id="stop257" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-25"
+       x1="465.82"
+       y1="294.75"
+       x2="465.82"
+       y2="299.12"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#1a1a1a"
+         id="stop260" />
+      <stop
+         offset="0.33"
+         stop-color="#1e1e1e"
+         id="stop262" />
+      <stop
+         offset="0.68"
+         stop-color="#2b2b2b"
+         id="stop264" />
+      <stop
+         offset="0.82"
+         stop-color="#333"
+         id="stop266" />
+      <stop
+         offset="0.92"
+         stop-color="#353535"
+         id="stop268" />
+      <stop
+         offset="0.96"
+         stop-color="#3d3d3d"
+         id="stop270" />
+      <stop
+         offset="0.99"
+         stop-color="#4a4a4a"
+         id="stop272" />
+      <stop
+         offset="1"
+         stop-color="#4d4d4d"
+         id="stop274" />
+    </linearGradient>
+    <linearGradient
+       id="Gold-3"
+       x1="465.82"
+       y1="295.89"
+       x2="465.82"
+       y2="298.2"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-6"
+       x1="633.04"
+       y1="140"
+       x2="633.04"
+       y2="674.41"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-26"
+       x1="633.04"
+       y1="66.43"
+       x2="633.04"
+       y2="488.76"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-7"
+       x1="633.74"
+       y1="459.73"
+       x2="633.74"
+       y2="494.61"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-27"
+       x1="633.74"
+       y1="456.94"
+       x2="633.74"
+       y2="489.32"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="Blackstone-8"
+       x1="-1067.61"
+       y1="775.75"
+       x2="-1067.61"
+       y2="757.21"
+       gradientTransform="translate(-143.26 -776.74) rotate(-90)"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-28"
+       x1="-1067.61"
+       y1="773.3"
+       x2="-1067.61"
+       y2="758.15"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="linear-gradient-29"
+       x1="-1067.61"
+       y1="770.84"
+       x2="-1067.61"
+       y2="759.09"
+       xlink:href="#linear-gradient-22" />
+    <linearGradient
+       id="linear-gradient-30"
+       x1="619.08"
+       y1="414.83"
+       x2="619.08"
+       y2="276"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#faac18"
+         id="stop285" />
+      <stop
+         offset="0.5"
+         stop-color="#ffca05"
+         id="stop287" />
+      <stop
+         offset="1"
+         stop-color="#ffe7a3"
+         id="stop289" />
+    </linearGradient>
+    <linearGradient
+       id="Fade_to_Black_2-2"
+       x1="619.08"
+       y1="265.95"
+       x2="619.08"
+       y2="276.14"
+       xlink:href="#Fade_to_Black_2" />
+    <linearGradient
+       id="linear-gradient-31"
+       x1="619.08"
+       y1="239.87"
+       x2="619.08"
+       y2="266.04"
+       xlink:href="#linear-gradient-23" />
+    <linearGradient
+       id="linear-gradient-32"
+       x1="619.08"
+       y1="241.12"
+       x2="619.08"
+       y2="264"
+       xlink:href="#linear-gradient-24" />
+    <linearGradient
+       id="linear-gradient-33"
+       x1="619.08"
+       y1="258.74"
+       x2="619.08"
+       y2="261.67"
+       xlink:href="#linear-gradient-25" />
+    <linearGradient
+       id="linear-gradient-34"
+       x1="619.08"
+       y1="252.43"
+       x2="619.08"
+       y2="255.36"
+       xlink:href="#linear-gradient-25" />
+    <linearGradient
+       id="linear-gradient-35"
+       x1="619.08"
+       y1="246.12"
+       x2="619.08"
+       y2="249.04"
+       xlink:href="#linear-gradient-25" />
+    <linearGradient
+       id="Blackstone-9"
+       x1="845.71"
+       y1="111"
+       x2="845.71"
+       y2="169.41"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-36"
+       x1="-2610.78"
+       y1="-1131.43"
+       x2="-2610.78"
+       y2="-1190.7"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-10"
+       x1="845.71"
+       y1="125.39"
+       x2="845.71"
+       y2="203.55"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-37"
+       x1="845.71"
+       y1="118.64"
+       x2="845.71"
+       y2="156.69"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="Blackstone-11"
+       x1="845.71"
+       y1="224.96"
+       x2="845.71"
+       y2="283.37"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-38"
+       x1="-2610.78"
+       y1="-1245.39"
+       x2="-2610.78"
+       y2="-1304.66"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-12"
+       x1="-2354.29"
+       y1="1419.35"
+       x2="-2354.29"
+       y2="1497.52"
+       gradientTransform="translate(-1508.59 1694.98) rotate(180)"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-39"
+       x1="845.71"
+       y1="289.25"
+       x2="845.71"
+       y2="241.47"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="Blackstone-13"
+       x1="690.45"
+       y1="546.73"
+       x2="690.45"
+       y2="605.14"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-40"
+       x1="-2455.52"
+       y1="-1567.16"
+       x2="-2455.52"
+       y2="-1626.43"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-41"
+       x1="690.45"
+       y1="554.37"
+       x2="690.45"
+       y2="592.42"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-14"
+       x1="690.45"
+       y1="675.34"
+       x2="690.45"
+       y2="733.75"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-42"
+       x1="-2455.52"
+       y1="-1695.77"
+       x2="-2455.52"
+       y2="-1755.04"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-43"
+       x1="690.45"
+       y1="684.65"
+       x2="690.45"
+       y2="741.87"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="linear-gradient-44"
+       x1="690.45"
+       y1="739.63"
+       x2="690.45"
+       y2="691.85"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#1a1a1a"
+         id="stop312" />
+      <stop
+         offset="0.16"
+         stop-color="#1e1e1e"
+         id="stop314" />
+      <stop
+         offset="0.34"
+         stop-color="#2b2b2b"
+         id="stop316" />
+      <stop
+         offset="0.52"
+         stop-color="#414141"
+         id="stop318" />
+      <stop
+         offset="0.6"
+         stop-color="#4d4d4d"
+         id="stop320" />
+      <stop
+         offset="0.74"
+         stop-color="#575757"
+         id="stop322" />
+      <stop
+         offset="1"
+         stop-color="#666"
+         id="stop324" />
+      <stop
+         offset="1"
+         stop-color="#717170"
+         id="stop326" />
+      <stop
+         offset="1"
+         stop-color="#afadac"
+         id="stop328" />
+      <stop
+         offset="1"
+         stop-color="#d6d4d1"
+         id="stop330" />
+      <stop
+         offset="1"
+         stop-color="#e5e2df"
+         id="stop332" />
+    </linearGradient>
+    <linearGradient
+       id="Blackstone-15"
+       x1="690.45"
+       y1="803.95"
+       x2="690.45"
+       y2="862.36"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-45"
+       x1="-2455.52"
+       y1="-1824.38"
+       x2="-2455.52"
+       y2="-1883.65"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-46"
+       x1="690.45"
+       y1="813.26"
+       x2="690.45"
+       y2="870.48"
+       xlink:href="#linear-gradient-30" />
+    <linearGradient
+       id="linear-gradient-47"
+       x1="690.45"
+       y1="868.24"
+       x2="690.45"
+       y2="820.46"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-16"
+       x1="403.15"
+       y1="570.05"
+       x2="403.15"
+       y2="1012.67"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-48"
+       x1="403.15"
+       y1="509.53"
+       x2="403.15"
+       y2="858.59"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-49"
+       x1="349.5"
+       y1="762.04"
+       x2="449.73"
+       y2="658.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-50"
+       x1="523.7"
+       y1="-1132.09"
+       x2="592.05"
+       y2="-885.51"
+       gradientTransform="translate(-637.68 157.49) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-51"
+       x1="598.53"
+       y1="-1113.86"
+       x2="518.59"
+       y2="-996"
+       gradientTransform="translate(-637.68 157.49) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <radialGradient
+       id="radial-gradient-12"
+       cx="403.15"
+       cy="706.49"
+       r="99.44"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-4"
+       x1="339.08"
+       y1="656.8"
+       x2="455.75"
+       y2="748.13"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="linear-gradient-52"
+       x1="404.12"
+       y1="894.33"
+       x2="404.12"
+       y2="814.57"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="linear-gradient-53"
+       x1="404.12"
+       y1="874.67"
+       x2="404.12"
+       y2="806.95"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-54"
+       x1="519.2"
+       y1="554.37"
+       x2="487.45"
+       y2="600.12"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-55"
+       x1="485.17"
+       y1="595.05"
+       x2="521.38"
+       y2="558.84"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-56"
+       x1="504.11"
+       y1="568.09"
+       x2="504.11"
+       y2="581.61"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f6ce53"
+         id="stop350" />
+      <stop
+         offset="0.5"
+         stop-color="#f33b21"
+         id="stop352" />
+      <stop
+         offset="1"
+         stop-color="#86292a"
+         id="stop354" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-57"
+       x1="504.11"
+       y1="569.37"
+       x2="504.11"
+       y2="579.2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f69453"
+         id="stop357" />
+      <stop
+         offset="0.5"
+         stop-color="#bd2421"
+         id="stop359" />
+      <stop
+         offset="1"
+         stop-color="#832e2a"
+         id="stop361" />
+    </linearGradient>
+    <linearGradient
+       id="Blackstone-17"
+       x1="-1245.45"
+       y1="-1087.6"
+       x2="-1245.45"
+       y2="-328.77"
+       gradientTransform="translate(162.43 1662.36) rotate(90)"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-58"
+       x1="1013.76"
+       y1="567.56"
+       x2="1013.76"
+       y2="329.2"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-18"
+       x1="965.63"
+       y1="416.91"
+       x2="1061.9"
+       y2="416.91"
+       xlink:href="#Blackstone" />
+    <radialGradient
+       id="radial-gradient-13"
+       cx="1013.76"
+       cy="416.91"
+       r="45.13"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-5"
+       x1="1018.7"
+       y1="403.5"
+       x2="1018.7"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-19"
+       x1="1096.08"
+       y1="416.91"
+       x2="1160"
+       y2="416.91"
+       xlink:href="#Blackstone" />
+    <radialGradient
+       id="radial-gradient-14"
+       cx="1128.04"
+       cy="416.91"
+       r="28.96"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-6"
+       x1="1123.55"
+       y1="403.5"
+       x2="1123.55"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Gold-7"
+       x1="1137.02"
+       y1="403.5"
+       x2="1137.02"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-20"
+       x1="867.53"
+       y1="416.91"
+       x2="931.44"
+       y2="416.91"
+       xlink:href="#Blackstone" />
+    <radialGradient
+       id="radial-gradient-15"
+       cx="899.49"
+       cy="416.91"
+       r="28.96"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-8"
+       x1="903.98"
+       y1="403.5"
+       x2="903.98"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Gold-9"
+       x1="890.5"
+       y1="403.5"
+       x2="890.5"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-21"
+       x1="1194.18"
+       y1="416.91"
+       x2="1258.09"
+       y2="416.91"
+       xlink:href="#Blackstone" />
+    <radialGradient
+       id="radial-gradient-16"
+       cx="1226.14"
+       cy="416.91"
+       r="28.96"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-10"
+       x1="1226.14"
+       y1="403.5"
+       x2="1226.14"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-22"
+       x1="769.43"
+       y1="416.91"
+       x2="833.35"
+       y2="416.91"
+       xlink:href="#Blackstone" />
+    <radialGradient
+       id="radial-gradient-17"
+       cx="801.39"
+       cy="416.91"
+       r="28.96"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-11"
+       x1="800.44"
+       y1="403.5"
+       x2="800.44"
+       y2="432.54"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="linear-gradient-59"
+       x1="1030.39"
+       y1="127.5"
+       x2="1030.39"
+       y2="106.9"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#434345"
+         id="stop383" />
+      <stop
+         offset="0.11"
+         stop-color="#4e4e50"
+         id="stop385" />
+      <stop
+         offset="0.29"
+         stop-color="#57585a"
+         id="stop387" />
+      <stop
+         offset="0.51"
+         stop-color="#5a5b5d"
+         id="stop389" />
+      <stop
+         offset="0.67"
+         stop-color="#5d5e60"
+         id="stop391" />
+      <stop
+         offset="0.78"
+         stop-color="#66686a"
+         id="stop393" />
+      <stop
+         offset="0.89"
+         stop-color="#76787a"
+         id="stop395" />
+      <stop
+         offset="0.99"
+         stop-color="#8c8e91"
+         id="stop397" />
+      <stop
+         offset="1"
+         stop-color="#8f9194"
+         id="stop399" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-60"
+       x1="1030.39"
+       y1="137.62"
+       x2="1030.39"
+       y2="112.09"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-61"
+       x1="1030.39"
+       y1="109.88"
+       x2="1030.39"
+       y2="134.64"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="linear-gradient-62"
+       x1="1144.37"
+       x2="1144.37"
+       y2="106.9"
+       xlink:href="#linear-gradient-59" />
+    <linearGradient
+       id="linear-gradient-63"
+       x1="1144.37"
+       y1="137.62"
+       x2="1144.37"
+       y2="112.09"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-64"
+       x1="1144.37"
+       y1="109.88"
+       x2="1144.37"
+       y2="134.64"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="linear-gradient-65"
+       x1="1258.34"
+       x2="1258.34"
+       y2="106.9"
+       xlink:href="#linear-gradient-59" />
+    <linearGradient
+       id="linear-gradient-66"
+       x1="1258.34"
+       y1="137.62"
+       x2="1258.34"
+       y2="112.09"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Gold-12"
+       x1="1258.34"
+       y1="109.88"
+       x2="1258.34"
+       y2="134.64"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-23"
+       x1="-1445.73"
+       y1="-1110.04"
+       x2="-1445.73"
+       y2="-698.61"
+       gradientTransform="translate(162.43 1662.36) rotate(90)"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-67"
+       x1="1144.37"
+       y1="357.77"
+       x2="1144.37"
+       y2="134.45"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-18"
+       cx="1030.39"
+       cy="180.58"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-68"
+       x1="1016.67"
+       y1="194.79"
+       x2="1042.3"
+       y2="168.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-69"
+       x1="521.54"
+       y1="-1882.43"
+       x2="539.01"
+       y2="-1819.39"
+       gradientTransform="translate(-828.71 -347.42) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-70"
+       x1="540.67"
+       y1="-1877.77"
+       x2="520.23"
+       y2="-1847.64"
+       gradientTransform="translate(-828.71 -347.42) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-13"
+       x1="1022.67"
+       y1="169.91"
+       x2="1025.12"
+       y2="169.91"
+       gradientTransform="translate(222.13 -489.18) rotate(30)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-19"
+       cx="1030.39"
+       cy="253.7"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-71"
+       x1="1016.67"
+       y1="267.9"
+       x2="1042.3"
+       y2="241.37"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-72"
+       x1="578.76"
+       y1="-1836.9"
+       x2="596.23"
+       y2="-1773.86"
+       gradientTransform="translate(-783.19 -331.52) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-73"
+       x1="-319.47"
+       y1="-1874.66"
+       x2="-339.91"
+       y2="-1844.53"
+       gradientTransform="translate(-825.6 585.84) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-14"
+       x1="1029.86"
+       y1="241.21"
+       x2="1030.88"
+       y2="241.21"
+       gradientTransform="translate(1249.22 -794.14) rotate(88.76)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-20"
+       cx="1144.37"
+       cy="180.58"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-74"
+       x1="1130.65"
+       y1="194.79"
+       x2="1156.27"
+       y2="168.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-75"
+       x1="592.51"
+       y1="-1971.62"
+       x2="609.98"
+       y2="-1908.58"
+       gradientTransform="translate(-803.92 -418.39) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-76"
+       x1="-689.99"
+       y1="-1870.62"
+       x2="-710.43"
+       y2="-1840.49"
+       gradientTransform="translate(441.71 -1671.37) rotate(180)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-15"
+       x1="1146.45"
+       y1="168.45"
+       x2="1148.18"
+       y2="168.45"
+       gradientTransform="translate(1013.08 -983.37) rotate(75)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-21"
+       cx="1144.37"
+       cy="253.7"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-77"
+       x1="1130.65"
+       y1="267.9"
+       x2="1156.27"
+       y2="241.37"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-78"
+       x1="649.72"
+       y1="-1926.09"
+       x2="667.19"
+       y2="-1863.05"
+       gradientTransform="translate(-758.4 -402.49) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-79"
+       x1="901.42"
+       y1="1220.98"
+       x2="880.99"
+       y2="1251.11"
+       gradientTransform="translate(255.6 -985.95)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-16"
+       x1="1140.55"
+       y1="265.84"
+       x2="1142.28"
+       y2="265.84"
+       gradientTransform="translate(1102.77 -905.49) rotate(75)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-22"
+       cx="1258.34"
+       cy="180.58"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-80"
+       x1="1244.63"
+       y1="194.79"
+       x2="1270.25"
+       y2="168.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-81"
+       x1="663.47"
+       y1="-2060.81"
+       x2="680.95"
+       y2="-1997.77"
+       gradientTransform="translate(-779.13 -489.36) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-82"
+       x1="-1289.32"
+       y1="-1354.38"
+       x2="-1309.75"
+       y2="-1324.25"
+       gradientTransform="translate(-43.64 -1155.13) rotate(180)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-17"
+       x1="1265.54"
+       y1="171.66"
+       x2="1268.62"
+       y2="171.66"
+       gradientTransform="translate(479.89 -835.96) rotate(44.29)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-23"
+       cx="1258.34"
+       cy="253.7"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-83"
+       x1="1244.63"
+       y1="267.9"
+       x2="1270.25"
+       y2="241.37"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-84"
+       x1="720.69"
+       y1="-2015.28"
+       x2="738.16"
+       y2="-1952.24"
+       gradientTransform="translate(-733.61 -473.45) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-85"
+       x1="739.82"
+       y1="-2010.62"
+       x2="719.38"
+       y2="-1980.49"
+       gradientTransform="translate(-733.61 -473.45) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-18"
+       x1="1250.63"
+       y1="243.03"
+       x2="1253.07"
+       y2="243.03"
+       gradientTransform="translate(289.23 -593.36) rotate(30)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-24"
+       cx="1087.38"
+       cy="180.58"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-86"
+       x1="1073.66"
+       y1="194.79"
+       x2="1099.28"
+       y2="168.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-87"
+       x1="557.02"
+       y1="-1927.02"
+       x2="574.5"
+       y2="-1863.98"
+       gradientTransform="translate(-816.32 -382.91) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-88"
+       x1="1423.9"
+       y1="-1301.69"
+       x2="1403.46"
+       y2="-1271.56"
+       gradientTransform="translate(-195.65 -1230.65) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-19"
+       x1="1074.03"
+       y1="175.74"
+       x2="1077.7"
+       y2="175.74"
+       gradientTransform="translate(796.69 -878.02) rotate(65.88)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-25"
+       cx="1087.38"
+       cy="253.7"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-89"
+       x1="1073.66"
+       y1="267.9"
+       x2="1099.28"
+       y2="241.37"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-90"
+       x1="614.24"
+       y1="-1881.5"
+       x2="631.71"
+       y2="-1818.46"
+       gradientTransform="translate(-770.79 -367) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-91"
+       x1="-1056.25"
+       y1="997.08"
+       x2="-1076.68"
+       y2="1027.21"
+       gradientTransform="translate(71.62 -815.21) rotate(-90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-20"
+       x1="1096.01"
+       y1="260.74"
+       x2="1099.38"
+       y2="260.74"
+       gradientTransform="translate(670.15 -783.35) rotate(54.37)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-26"
+       cx="1201.35"
+       cy="180.58"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-92"
+       x1="1187.64"
+       y1="194.79"
+       x2="1213.26"
+       y2="168.25"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-93"
+       x1="627.99"
+       y1="-2016.21"
+       x2="645.46"
+       y2="-1953.17"
+       gradientTransform="translate(-791.53 -453.87) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-94"
+       x1="1810.23"
+       y1="-230.57"
+       x2="1789.79"
+       y2="-200.44"
+       gradientTransform="translate(-596.21 392.48)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-21"
+       x1="1187.61"
+       y1="184.54"
+       x2="1191.41"
+       y2="184.54"
+       gradientTransform="translate(107.5 -342.94) rotate(17.17)"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-27"
+       cx="1201.35"
+       cy="253.7"
+       r="20.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-95"
+       x1="1187.64"
+       y1="267.9"
+       x2="1213.26"
+       y2="241.37"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-96"
+       x1="685.21"
+       y1="-1970.69"
+       x2="702.68"
+       y2="-1907.65"
+       gradientTransform="translate(-746 -437.97) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-97"
+       x1="1848.98"
+       y1="-644.09"
+       x2="1828.54"
+       y2="-613.96"
+       gradientTransform="translate(-634.96 879.12)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Gold-22"
+       x1="1186.92"
+       y1="254.36"
+       x2="1190.84"
+       y2="254.36"
+       gradientTransform="translate(8.01 -34.91) rotate(1.69)"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-24"
+       x1="980.15"
+       y1="570.05"
+       x2="980.15"
+       y2="1012.67"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-98"
+       x1="980.15"
+       y1="509.53"
+       x2="980.15"
+       y2="858.59"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-25"
+       x1="915.98"
+       y1="578.51"
+       x2="915.98"
+       y2="606.45"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-99"
+       x1="-2681.05"
+       y1="-1609.31"
+       x2="-2681.05"
+       y2="-1631.44"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-26"
+       x1="915.98"
+       y1="586.63"
+       x2="915.98"
+       y2="620.69"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-100"
+       x1="915.98"
+       y1="585.46"
+       x2="915.98"
+       y2="605.87"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-27"
+       x1="1044.31"
+       y1="578.51"
+       x2="1044.31"
+       y2="606.45"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-101"
+       x1="-2809.38"
+       y1="-1609.31"
+       x2="-2809.38"
+       y2="-1631.44"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-28"
+       x1="1044.31"
+       y1="586.63"
+       x2="1044.31"
+       y2="620.69"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-102"
+       x1="1044.31"
+       y1="584.33"
+       x2="1044.31"
+       y2="603.33"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-29"
+       x1="915.98"
+       y1="635.17"
+       x2="915.98"
+       y2="663.11"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-103"
+       x1="-2681.05"
+       y1="-1665.98"
+       x2="-2681.05"
+       y2="-1688.1"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-30"
+       x1="915.98"
+       y1="643.3"
+       x2="915.98"
+       y2="677.36"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-104"
+       x1="915.98"
+       y1="642.13"
+       x2="915.98"
+       y2="662.53"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-31"
+       x1="1044.31"
+       y1="635.17"
+       x2="1044.31"
+       y2="663.11"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-105"
+       x1="-2809.38"
+       y1="-1665.98"
+       x2="-2809.38"
+       y2="-1688.1"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-32"
+       x1="1044.31"
+       y1="643.3"
+       x2="1044.31"
+       y2="677.36"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-106"
+       x1="1044.31"
+       y1="640.5"
+       x2="1044.31"
+       y2="661.85"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-33"
+       x1="915.98"
+       y1="691.84"
+       x2="915.98"
+       y2="719.78"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-107"
+       x1="-2681.05"
+       y1="-1722.64"
+       x2="-2681.05"
+       y2="-1744.77"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-34"
+       x1="915.98"
+       y1="699.97"
+       x2="915.98"
+       y2="734.02"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-108"
+       x1="915.98"
+       y1="696.88"
+       x2="915.98"
+       y2="716.43"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-35"
+       x1="1044.31"
+       y1="691.84"
+       x2="1044.31"
+       y2="719.78"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-109"
+       x1="-2809.38"
+       y1="-1722.64"
+       x2="-2809.38"
+       y2="-1744.77"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-36"
+       x1="1044.31"
+       y1="699.97"
+       x2="1044.31"
+       y2="734.02"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-110"
+       x1="1044.31"
+       y1="698.79"
+       x2="1044.31"
+       y2="719.2"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-37"
+       x1="915.98"
+       y1="748.51"
+       x2="915.98"
+       y2="776.45"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-111"
+       x1="-2681.05"
+       y1="-1779.31"
+       x2="-2681.05"
+       y2="-1801.44"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-38"
+       x1="915.98"
+       y1="756.63"
+       x2="915.98"
+       y2="790.69"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-112"
+       x1="915.98"
+       y1="755.46"
+       x2="915.98"
+       y2="775.87"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-39"
+       x1="1044.31"
+       y1="748.51"
+       x2="1044.31"
+       y2="776.45"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-113"
+       x1="-2809.38"
+       y1="-1779.31"
+       x2="-2809.38"
+       y2="-1801.44"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-40"
+       x1="1044.31"
+       y1="756.63"
+       x2="1044.31"
+       y2="790.69"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-114"
+       x1="1044.31"
+       y1="752"
+       x2="1044.31"
+       y2="772.58"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="Blackstone-41"
+       x1="915.98"
+       y1="805.17"
+       x2="915.98"
+       y2="833.11"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-115"
+       x1="-2681.05"
+       y1="-1835.98"
+       x2="-2681.05"
+       y2="-1858.1"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-42"
+       x1="915.98"
+       y1="813.3"
+       x2="915.98"
+       y2="847.36"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-116"
+       x1="915.98"
+       y1="812.13"
+       x2="915.98"
+       y2="832.53"
+       xlink:href="#Gold" />
+    <linearGradient
+       id="Blackstone-43"
+       x1="1044.31"
+       y1="805.17"
+       x2="1044.31"
+       y2="833.11"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-117"
+       x1="-2809.38"
+       y1="-1835.98"
+       x2="-2809.38"
+       y2="-1858.1"
+       gradientTransform="translate(-1765.07 -1030.78) rotate(180)"
+       xlink:href="#linear-gradient-21" />
+    <linearGradient
+       id="Blackstone-44"
+       x1="1044.31"
+       y1="813.3"
+       x2="1044.31"
+       y2="847.36"
+       xlink:href="#Blackstone" />
+    <linearGradient
+       id="linear-gradient-118"
+       x1="1044.31"
+       y1="812.13"
+       x2="1044.31"
+       y2="832.53"
+       xlink:href="#Gold" />
+    <radialGradient
+       id="radial-gradient-28"
+       cx="1228.38"
+       cy="707.87"
+       r="59.6"
+       xlink:href="#radial-gradient-2" />
+    <radialGradient
+       id="radial-gradient-29"
+       cx="1228.38"
+       cy="707.87"
+       r="68.72"
+       xlink:href="#radial-gradient-2" />
+    <linearGradient
+       id="linear-gradient-119"
+       x1="1189.18"
+       y1="748.46"
+       x2="1262.42"
+       y2="672.62"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-120"
+       x1="1045.41"
+       y1="-1752.41"
+       x2="1095.35"
+       y2="-1572.24"
+       gradientTransform="translate(-457.34 -356.03) rotate(90)"
+       xlink:href="#linear-gradient-2" />
+    <linearGradient
+       id="linear-gradient-121"
+       x1="1100.09"
+       y1="-1739.09"
+       x2="1041.68"
+       y2="-1652.98"
+       gradientTransform="translate(-457.34 -356.03) rotate(90)"
+       xlink:href="#linear-gradient-3" />
+    <linearGradient
+       id="Orange"
+       x1="1283.53"
+       y1="681.77"
+       x2="1182.03"
+       y2="724.77"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f69453"
+         id="stop509" />
+      <stop
+         offset="0.5"
+         stop-color="#f37521"
+         id="stop511" />
+      <stop
+         offset="1"
+         stop-color="#d4622a"
+         id="stop513" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title518">EEZY</title>
+  <g
+     id="BACKGROUND">
+    <rect
+       class="cls-1"
+       width="1400"
+       height="980"
+       id="rect520" />
+  </g>
+  <g
+     id="OBJECT">
+    <circle
+       class="cls-2"
+       cx="148.71"
+       cy="175.62"
+       r="59.6"
+       id="circle523" />
+    <path
+       class="cls-3"
+       d="M148.71,106.9a68.72,68.72,0,1,0,68.72,68.72A68.72,68.72,0,0,0,148.71,106.9Zm0,130.82a62.1,62.1,0,1,1,62.1-62.1A62.1,62.1,0,0,1,148.71,237.71Z"
+       id="path525" />
+    <circle
+       class="cls-4"
+       cx="148.71"
+       cy="175.62"
+       r="53.01"
+       id="circle527" />
+    <circle
+       class="cls-5"
+       cx="148.71"
+       cy="175.62"
+       r="48.55"
+       transform="matrix(0.78, -0.62, 0.62, 0.78, -77, 130.79)"
+       id="circle529" />
+    <circle
+       class="cls-6"
+       cx="148.71"
+       cy="175.62"
+       r="47.45"
+       transform="translate(-77 130.79) rotate(-38.51)"
+       id="circle531" />
+    <rect
+       class="cls-7"
+       x="128.78"
+       y="139.51"
+       width="2.76"
+       height="11.22"
+       rx="1.38"
+       ry="1.38"
+       transform="translate(-55.12 84.52) rotate(-30)"
+       id="rect533" />
+    <path
+       class="cls-8"
+       d="M86.61,175.62a62.06,62.06,0,0,1,29.67-53L112.83,117a68.73,68.73,0,0,0-12.71,107.21l4.68-4.68A61.9,61.9,0,0,1,86.61,175.62Z"
+       id="path535" />
+    <circle
+       class="cls-9"
+       cx="148.71"
+       cy="437.18"
+       r="59.6"
+       id="circle537" />
+    <path
+       class="cls-10"
+       d="M148.71,368.46a68.72,68.72,0,1,0,68.72,68.72A68.72,68.72,0,0,0,148.71,368.46Zm0,130.82a62.1,62.1,0,1,1,62.1-62.1A62.1,62.1,0,0,1,148.71,499.28Z"
+       id="path539" />
+    <circle
+       class="cls-11"
+       cx="148.71"
+       cy="437.18"
+       r="53.01"
+       id="circle541" />
+    <circle
+       class="cls-12"
+       cx="148.71"
+       cy="437.18"
+       r="48.55"
+       transform="translate(-239.86 187.67) rotate(-38.51)"
+       id="circle543" />
+    <circle
+       class="cls-13"
+       cx="148.71"
+       cy="437.18"
+       r="47.45"
+       transform="translate(-239.86 187.67) rotate(-38.51)"
+       id="circle545" />
+    <rect
+       class="cls-7"
+       x="147.34"
+       y="395.89"
+       width="2.76"
+       height="11.22"
+       rx="1.38"
+       ry="1.38"
+       id="rect547" />
+    <path
+       class="cls-14"
+       d="M86.61,437.18a62.1,62.1,0,0,1,62.1-62.1v-6.62a68.72,68.72,0,0,0-48.59,117.31l4.68-4.68A61.9,61.9,0,0,1,86.61,437.18Z"
+       id="path549" />
+    <circle
+       class="cls-15"
+       cx="148.71"
+       cy="707.87"
+       r="59.6"
+       id="circle551" />
+    <path
+       class="cls-16"
+       d="M148.71,639.15a68.72,68.72,0,1,0,68.72,68.72A68.72,68.72,0,0,0,148.71,639.15Zm0,130.82a62.1,62.1,0,1,1,62.1-62.1A62.1,62.1,0,0,1,148.71,770Z"
+       id="path553" />
+    <circle
+       class="cls-17"
+       cx="148.71"
+       cy="707.87"
+       r="53.01"
+       id="circle555" />
+    <circle
+       class="cls-18"
+       cx="148.71"
+       cy="707.87"
+       r="48.55"
+       transform="translate(-408.4 246.55) rotate(-38.51)"
+       id="circle557" />
+    <circle
+       class="cls-19"
+       cx="148.71"
+       cy="707.87"
+       r="47.45"
+       transform="translate(-408.4 246.55) rotate(-38.51)"
+       id="circle559" />
+    <rect
+       class="cls-7"
+       x="177.83"
+       y="706.49"
+       width="11.22"
+       height="2.76"
+       rx="1.38"
+       ry="1.38"
+       id="rect561" />
+    <path
+       class="cls-20"
+       d="M148.71,639.15a68.72,68.72,0,0,0-48.59,117.31l4.68-4.68a62.1,62.1,0,1,1,106-43.91h6.62A68.72,68.72,0,0,0,148.71,639.15Z"
+       id="path563" />
+    <rect
+       class="cls-21"
+       x="89.11"
+       y="281.07"
+       width="119.2"
+       height="50.67"
+       rx="3.88"
+       ry="3.88"
+       id="rect565" />
+    <rect
+       class="cls-22"
+       x="89.11"
+       y="542.63"
+       width="119.2"
+       height="50.67"
+       rx="3.88"
+       ry="3.88"
+       id="rect567" />
+    <rect
+       class="cls-23"
+       x="89.11"
+       y="822.44"
+       width="119.2"
+       height="50.67"
+       rx="3.88"
+       ry="3.88"
+       id="rect569" />
+    <rect
+       class="cls-24"
+       x="1168.78"
+       y="822.44"
+       width="119.2"
+       height="50.67"
+       rx="3.88"
+       ry="3.88"
+       id="rect571" />
+    <rect
+       class="cls-25"
+       x="268.71"
+       y="106.9"
+       width="115.62"
+       height="399.01"
+       rx="7.53"
+       ry="7.53"
+       id="rect573" />
+    <rect
+       class="cls-26"
+       x="270.71"
+       y="108.9"
+       width="111.62"
+       height="395.01"
+       rx="5.53"
+       ry="5.53"
+       id="rect575" />
+    <path
+       class="cls-27"
+       d="M290.61,119h0V230.91h0V343.83h28.5V230.91h0V119h-28.5Zm27.5,223.84h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Z"
+       id="path577" />
+    <rect
+       class="cls-28"
+       x="291.61"
+       y="189.94"
+       width="26.5"
+       height="6"
+       id="rect579" />
+    <rect
+       class="cls-28"
+       x="291.61"
+       y="203.93"
+       width="26.5"
+       height="6"
+       id="rect581" />
+    <rect
+       class="cls-28"
+       x="291.61"
+       y="196.93"
+       width="26.5"
+       height="6"
+       id="rect583" />
+    <rect
+       class="cls-28"
+       x="291.61"
+       y="182.94"
+       width="26.5"
+       height="6"
+       id="rect585" />
+    <rect
+       class="cls-29"
+       x="291.61"
+       y="175.95"
+       width="26.5"
+       height="6"
+       id="rect587" />
+    <rect
+       class="cls-30"
+       x="291.61"
+       y="119.99"
+       width="26.5"
+       height="6"
+       id="rect589" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="224.91"
+       width="26.5"
+       height="6"
+       id="rect591" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="217.92"
+       width="26.5"
+       height="6"
+       id="rect593" />
+    <rect
+       class="cls-30"
+       x="291.61"
+       y="140.97"
+       width="26.5"
+       height="6"
+       id="rect595" />
+    <rect
+       class="cls-32"
+       x="291.61"
+       y="126.98"
+       width="26.5"
+       height="6"
+       id="rect597" />
+    <rect
+       class="cls-30"
+       x="291.61"
+       y="133.98"
+       width="26.5"
+       height="6"
+       id="rect599" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="231.91"
+       width="26.5"
+       height="6"
+       id="rect601" />
+    <rect
+       class="cls-29"
+       x="291.61"
+       y="168.95"
+       width="26.5"
+       height="6"
+       id="rect603" />
+    <rect
+       class="cls-30"
+       x="291.61"
+       y="147.97"
+       width="26.5"
+       height="6"
+       id="rect605" />
+    <rect
+       class="cls-29"
+       x="291.61"
+       y="161.96"
+       width="26.5"
+       height="6"
+       id="rect607" />
+    <rect
+       class="cls-32"
+       x="291.61"
+       y="154.96"
+       width="26.5"
+       height="6"
+       id="rect609" />
+    <rect
+       class="cls-28"
+       x="291.61"
+       y="210.92"
+       width="26.5"
+       height="6"
+       id="rect611" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="308.85"
+       width="26.5"
+       height="6"
+       id="rect613" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="315.85"
+       width="26.5"
+       height="6"
+       id="rect615" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="294.86"
+       width="26.5"
+       height="6"
+       id="rect617" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="301.86"
+       width="26.5"
+       height="6"
+       id="rect619" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="336.83"
+       width="26.5"
+       height="6"
+       id="rect621" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="329.84"
+       width="26.5"
+       height="6"
+       id="rect623" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="322.84"
+       width="26.5"
+       height="6"
+       id="rect625" />
+    <rect
+       class="cls-34"
+       x="291.61"
+       y="259.89"
+       width="26.5"
+       height="6"
+       id="rect627" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="252.89"
+       width="26.5"
+       height="6"
+       id="rect629" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="245.9"
+       width="26.5"
+       height="6"
+       id="rect631" />
+    <rect
+       class="cls-31"
+       x="291.61"
+       y="238.9"
+       width="26.5"
+       height="6"
+       id="rect633" />
+    <rect
+       class="cls-33"
+       x="291.61"
+       y="287.87"
+       width="26.5"
+       height="6"
+       id="rect635" />
+    <rect
+       class="cls-34"
+       x="291.61"
+       y="280.87"
+       width="26.5"
+       height="6"
+       id="rect637" />
+    <rect
+       class="cls-34"
+       x="291.61"
+       y="266.88"
+       width="26.5"
+       height="6"
+       id="rect639" />
+    <rect
+       class="cls-34"
+       x="291.61"
+       y="273.88"
+       width="26.5"
+       height="6"
+       id="rect641" />
+    <path
+       class="cls-35"
+       d="M332.94,119h0V230.91h0V343.83h28.5V230.91h0V119h-28.5Zm27.5,223.84h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Zm0-7h-26.5v-6h26.5Z"
+       id="path643" />
+    <rect
+       class="cls-32"
+       x="333.94"
+       y="189.94"
+       width="26.5"
+       height="6"
+       id="rect645" />
+    <rect
+       class="cls-29"
+       x="333.94"
+       y="203.93"
+       width="26.5"
+       height="6"
+       id="rect647" />
+    <rect
+       class="cls-29"
+       x="333.94"
+       y="196.93"
+       width="26.5"
+       height="6"
+       id="rect649" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="182.94"
+       width="26.5"
+       height="6"
+       id="rect651" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="175.95"
+       width="26.5"
+       height="6"
+       id="rect653" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="119.99"
+       width="26.5"
+       height="6"
+       id="rect655" />
+    <rect
+       class="cls-28"
+       x="333.94"
+       y="224.91"
+       width="26.5"
+       height="6"
+       id="rect657" />
+    <rect
+       class="cls-28"
+       x="333.94"
+       y="217.92"
+       width="26.5"
+       height="6"
+       id="rect659" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="140.97"
+       width="26.5"
+       height="6"
+       id="rect661" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="126.98"
+       width="26.5"
+       height="6"
+       id="rect663" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="133.98"
+       width="26.5"
+       height="6"
+       id="rect665" />
+    <rect
+       class="cls-28"
+       x="333.94"
+       y="231.91"
+       width="26.5"
+       height="6"
+       id="rect667" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="168.95"
+       width="26.5"
+       height="6"
+       id="rect669" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="147.97"
+       width="26.5"
+       height="6"
+       id="rect671" />
+    <rect
+       class="cls-32"
+       x="333.94"
+       y="161.96"
+       width="26.5"
+       height="6"
+       id="rect673" />
+    <rect
+       class="cls-30"
+       x="333.94"
+       y="154.96"
+       width="26.5"
+       height="6"
+       id="rect675" />
+    <rect
+       class="cls-29"
+       x="333.94"
+       y="210.92"
+       width="26.5"
+       height="6"
+       id="rect677" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="308.85"
+       width="26.5"
+       height="6"
+       id="rect679" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="315.85"
+       width="26.5"
+       height="6"
+       id="rect681" />
+    <rect
+       class="cls-34"
+       x="333.94"
+       y="294.86"
+       width="26.5"
+       height="6"
+       id="rect683" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="301.86"
+       width="26.5"
+       height="6"
+       id="rect685" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="336.83"
+       width="26.5"
+       height="6"
+       id="rect687" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="329.84"
+       width="26.5"
+       height="6"
+       id="rect689" />
+    <rect
+       class="cls-33"
+       x="333.94"
+       y="322.84"
+       width="26.5"
+       height="6"
+       id="rect691" />
+    <rect
+       class="cls-31"
+       x="333.94"
+       y="259.89"
+       width="26.5"
+       height="6"
+       id="rect693" />
+    <rect
+       class="cls-31"
+       x="333.94"
+       y="252.89"
+       width="26.5"
+       height="6"
+       id="rect695" />
+    <rect
+       class="cls-31"
+       x="333.94"
+       y="245.9"
+       width="26.5"
+       height="6"
+       id="rect697" />
+    <rect
+       class="cls-28"
+       x="333.94"
+       y="238.9"
+       width="26.5"
+       height="6"
+       id="rect699" />
+    <rect
+       class="cls-34"
+       x="333.94"
+       y="287.87"
+       width="26.5"
+       height="6"
+       id="rect701" />
+    <rect
+       class="cls-34"
+       x="333.94"
+       y="280.87"
+       width="26.5"
+       height="6"
+       id="rect703" />
+    <rect
+       class="cls-31"
+       x="333.94"
+       y="266.88"
+       width="26.5"
+       height="6"
+       id="rect705" />
+    <rect
+       class="cls-34"
+       x="333.94"
+       y="273.88"
+       width="26.5"
+       height="6"
+       id="rect707" />
+    <circle
+       class="cls-36"
+       cx="326.52"
+       cy="401.16"
+       r="30.28"
+       id="circle709" />
+    <path
+       class="cls-37"
+       d="M326.52,366.24a34.92,34.92,0,1,0,34.92,34.92A34.92,34.92,0,0,0,326.52,366.24Zm0,66.47a31.55,31.55,0,1,1,31.55-31.55A31.55,31.55,0,0,1,326.52,432.71Z"
+       id="path711" />
+    <circle
+       class="cls-38"
+       cx="326.52"
+       cy="401.16"
+       r="26.93"
+       id="circle713" />
+    <circle
+       class="cls-39"
+       cx="326.52"
+       cy="401.16"
+       r="24.67"
+       transform="translate(-178.76 290.55) rotate(-38.51)"
+       id="circle715" />
+    <circle
+       class="cls-40"
+       cx="326.52"
+       cy="401.16"
+       r="24.11"
+       transform="translate(-178.76 290.55) rotate(-38.51)"
+       id="circle717" />
+    <rect
+       class="cls-7"
+       x="325.82"
+       y="380.17"
+       width="1.4"
+       height="5.7"
+       rx="0.7"
+       ry="0.7"
+       id="rect719" />
+    <path
+       class="cls-41"
+       d="M295,401.16a31.55,31.55,0,0,1,31.55-31.55v-3.36a34.92,34.92,0,0,0-24.69,59.61l2.38-2.38A31.45,31.45,0,0,1,295,401.16Z"
+       id="path721" />
+    <rect
+       class="cls-42"
+       x="289.78"
+       y="458.49"
+       width="74.89"
+       height="31.83"
+       rx="3.88"
+       ry="3.88"
+       id="rect723" />
+    <rect
+       class="cls-43"
+       x="290.78"
+       y="459.49"
+       width="72.89"
+       height="29.83"
+       rx="2.88"
+       ry="2.88"
+       id="rect725" />
+    <rect
+       class="cls-44"
+       x="421.97"
+       y="106.9"
+       width="115.62"
+       height="399.01"
+       rx="7.53"
+       ry="7.53"
+       id="rect727" />
+    <rect
+       class="cls-45"
+       x="423.97"
+       y="108.9"
+       width="111.62"
+       height="395.01"
+       rx="5.53"
+       ry="5.53"
+       id="rect729" />
+    <rect
+       class="cls-46"
+       x="443.04"
+       y="458.49"
+       width="74.89"
+       height="31.83"
+       rx="3.88"
+       ry="3.88"
+       id="rect731" />
+    <rect
+       class="cls-47"
+       x="444.04"
+       y="459.49"
+       width="72.89"
+       height="29.83"
+       rx="2.88"
+       ry="2.88"
+       id="rect733" />
+    <rect
+       class="cls-48"
+       x="454.9"
+       y="153.36"
+       width="21.85"
+       height="275"
+       rx="3.08"
+       ry="3.08"
+       id="rect735" />
+    <rect
+       class="cls-49"
+       x="456.9"
+       y="155.36"
+       width="17.85"
+       height="271"
+       rx="1.76"
+       ry="1.76"
+       id="rect737" />
+    <rect
+       class="cls-50"
+       x="458.9"
+       y="157.36"
+       width="13.85"
+       height="267"
+       rx="1.24"
+       ry="1.24"
+       id="rect739" />
+    <rect
+       class="cls-51"
+       x="458.9"
+       y="290.86"
+       width="13.85"
+       height="133.5"
+       rx="1.24"
+       ry="1.24"
+       id="rect741" />
+    <rect
+       class="cls-52"
+       x="441.62"
+       y="287.18"
+       width="48.41"
+       height="26.25"
+       rx="0.83"
+       ry="0.83"
+       id="rect743" />
+    <rect
+       class="cls-53"
+       x="441.62"
+       y="277.74"
+       width="48.41"
+       height="26.25"
+       rx="0.83"
+       ry="0.83"
+       id="rect745" />
+    <rect
+       class="cls-54"
+       x="443.62"
+       y="279.74"
+       width="44.41"
+       height="22.25"
+       rx="0.67"
+       ry="0.67"
+       id="rect747" />
+    <path
+       class="cls-55"
+       d="M454.74,299.3a2.13,2.13,0,0,1,0-4.25h22.16a2.13,2.13,0,0,1,0,4.25Z"
+       id="path749" />
+    <rect
+       class="cls-56"
+       x="453.62"
+       y="296.05"
+       width="24.41"
+       height="2.25"
+       rx="1.12"
+       ry="1.12"
+       id="rect751" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="422.22"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect753" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="356.54"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect755" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="389.92"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect757" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="323.17"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect759" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="406.6"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect761" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="373.23"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect763" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="339.85"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect765" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="306.48"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect767" />
+    <path
+       class="cls-30"
+       d="M518.27,289.79H498.08a1.07,1.07,0,0,0,0,2.14h20.19a1.07,1.07,0,1,0,0-2.14Z"
+       id="path769" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="224.11"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect771" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="157.36"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect773" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="257.49"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect775" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="190.74"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect777" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="274.18"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect779" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="240.8"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect781" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="207.43"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect783" />
+    <rect
+       class="cls-30"
+       x="497.01"
+       y="174.05"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect785" />
+    <rect
+       class="cls-57"
+       x="575.23"
+       y="106.9"
+       width="115.62"
+       height="399.01"
+       rx="7.53"
+       ry="7.53"
+       id="rect787" />
+    <rect
+       class="cls-58"
+       x="577.23"
+       y="108.9"
+       width="111.62"
+       height="395.01"
+       rx="5.53"
+       ry="5.53"
+       id="rect789" />
+    <rect
+       class="cls-59"
+       x="596.29"
+       y="458.49"
+       width="74.89"
+       height="31.83"
+       rx="3.88"
+       ry="3.88"
+       id="rect791" />
+    <rect
+       class="cls-60"
+       x="597.29"
+       y="459.49"
+       width="72.89"
+       height="29.83"
+       rx="2.88"
+       ry="2.88"
+       id="rect793" />
+    <rect
+       class="cls-61"
+       x="608.15"
+       y="153.36"
+       width="21.85"
+       height="275"
+       rx="3.08"
+       ry="3.08"
+       id="rect795" />
+    <rect
+       class="cls-62"
+       x="610.15"
+       y="155.36"
+       width="17.85"
+       height="271"
+       rx="1.76"
+       ry="1.76"
+       id="rect797" />
+    <rect
+       class="cls-63"
+       x="612.15"
+       y="157.36"
+       width="13.85"
+       height="267"
+       rx="1.24"
+       ry="1.24"
+       id="rect799" />
+    <rect
+       class="cls-64"
+       x="612.15"
+       y="259.01"
+       width="13.85"
+       height="165.35"
+       rx="1.24"
+       ry="1.24"
+       id="rect801" />
+    <path
+       class="cls-65"
+       d="M601.25,251v24.6c0,.46.27.83.61.83h34.45c.34,0,.61-.37.61-.83V251c0-.46-.27-.83-.61-.83H601.86C601.52,250.15,601.25,250.53,601.25,251Z"
+       id="path803" />
+    <path
+       class="cls-66"
+       d="M601.25,241.54v24.6c0,.46.27.83.61.83h34.45c.34,0,.61-.37.61-.83v-24.6c0-.46-.27-.83-.61-.83H601.86C601.52,240.72,601.25,241.09,601.25,241.54Z"
+       id="path805" />
+    <path
+       class="cls-67"
+       d="M635.44,264.3c0,.37-.22.67-.49.67H603.21c-.27,0-.49-.3-.49-.67V243.39c0-.37.22-.67.49-.67h31.74c.27,0,.49.3.49.67Z"
+       id="path807" />
+    <path
+       class="cls-68"
+       d="M608.75,261.79a1.42,1.42,0,0,1,0-2.84h20.66a1.42,1.42,0,0,1,0,2.84Z"
+       id="path809" />
+    <path
+       class="cls-69"
+       d="M608.75,255.48a1.42,1.42,0,1,1,0-2.84h20.66a1.42,1.42,0,0,1,0,2.84Z"
+       id="path811" />
+    <path
+       class="cls-70"
+       d="M608.75,249.17a1.42,1.42,0,0,1,0-2.84h20.66a1.42,1.42,0,0,1,0,2.84Z"
+       id="path813" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="422.22"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect815" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="356.54"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect817" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="389.92"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect819" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="323.17"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect821" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="406.6"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect823" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="373.23"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect825" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="339.85"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect827" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="306.48"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect829" />
+    <path
+       class="cls-30"
+       d="M671.53,289.79H651.34a1.07,1.07,0,0,0,0,2.14h20.19a1.07,1.07,0,1,0,0-2.14Z"
+       id="path831" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="224.11"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect833" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="157.36"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect835" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="257.49"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect837" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="190.74"
+       width="22.33"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect839" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="274.18"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect841" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="240.8"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect843" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="207.43"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect845" />
+    <rect
+       class="cls-30"
+       x="650.26"
+       y="174.05"
+       width="11.17"
+       height="2.14"
+       rx="1.07"
+       ry="1.07"
+       id="rect847" />
+    <rect
+       class="cls-71"
+       x="730.48"
+       y="106.9"
+       width="230.45"
+       height="73.25"
+       rx="10.31"
+       ry="10.31"
+       id="rect849" />
+    <rect
+       class="cls-72"
+       x="732.19"
+       y="108.6"
+       width="227.04"
+       height="69.84"
+       rx="8.52"
+       ry="8.52"
+       id="rect851" />
+    <rect
+       class="cls-73"
+       x="743.89"
+       y="120.31"
+       width="203.63"
+       height="46.44"
+       rx="4.16"
+       ry="4.16"
+       id="rect853" />
+    <rect
+       class="cls-74"
+       x="745.45"
+       y="121.86"
+       width="200.52"
+       height="43.32"
+       rx="2.61"
+       ry="2.61"
+       id="rect855" />
+    <rect
+       class="cls-75"
+       x="730.48"
+       y="220.86"
+       width="230.45"
+       height="73.25"
+       rx="10.31"
+       ry="10.31"
+       id="rect857" />
+    <rect
+       class="cls-76"
+       x="732.19"
+       y="222.57"
+       width="227.04"
+       height="69.84"
+       rx="8.52"
+       ry="8.52"
+       id="rect859" />
+    <rect
+       class="cls-77"
+       x="743.89"
+       y="234.27"
+       width="203.63"
+       height="46.44"
+       rx="4.16"
+       ry="4.16"
+       id="rect861" />
+    <rect
+       class="cls-78"
+       x="745.45"
+       y="235.83"
+       width="200.52"
+       height="43.32"
+       rx="2.61"
+       ry="2.61"
+       id="rect863" />
+    <rect
+       class="cls-79"
+       x="575.23"
+       y="542.63"
+       width="230.45"
+       height="73.25"
+       rx="10.31"
+       ry="10.31"
+       id="rect865" />
+    <rect
+       class="cls-80"
+       x="576.93"
+       y="544.34"
+       width="227.04"
+       height="69.84"
+       rx="8.52"
+       ry="8.52"
+       id="rect867" />
+    <rect
+       class="cls-33"
+       x="588.63"
+       y="556.04"
+       width="203.63"
+       height="46.44"
+       rx="4.16"
+       ry="4.16"
+       id="rect869" />
+    <rect
+       class="cls-81"
+       x="590.19"
+       y="557.6"
+       width="200.52"
+       height="43.32"
+       rx="2.61"
+       ry="2.61"
+       id="rect871" />
+    <rect
+       class="cls-82"
+       x="575.23"
+       y="671.24"
+       width="230.45"
+       height="73.25"
+       rx="10.31"
+       ry="10.31"
+       id="rect873" />
+    <rect
+       class="cls-83"
+       x="576.93"
+       y="672.95"
+       width="227.04"
+       height="69.84"
+       rx="8.52"
+       ry="8.52"
+       id="rect875" />
+    <rect
+       class="cls-84"
+       x="588.63"
+       y="684.65"
+       width="203.63"
+       height="46.44"
+       rx="4.16"
+       ry="4.16"
+       id="rect877" />
+    <rect
+       class="cls-85"
+       x="590.19"
+       y="686.21"
+       width="200.52"
+       height="43.32"
+       rx="2.61"
+       ry="2.61"
+       id="rect879" />
+    <rect
+       class="cls-86"
+       x="575.23"
+       y="799.85"
+       width="230.45"
+       height="73.25"
+       rx="10.31"
+       ry="10.31"
+       id="rect881" />
+    <rect
+       class="cls-87"
+       x="576.93"
+       y="801.56"
+       width="227.04"
+       height="69.84"
+       rx="8.52"
+       ry="8.52"
+       id="rect883" />
+    <rect
+       class="cls-88"
+       x="588.63"
+       y="813.26"
+       width="203.63"
+       height="46.44"
+       rx="4.16"
+       ry="4.16"
+       id="rect885" />
+    <rect
+       class="cls-89"
+       x="590.19"
+       y="814.82"
+       width="200.52"
+       height="43.32"
+       rx="2.61"
+       ry="2.61"
+       id="rect887" />
+    <rect
+       class="cls-90"
+       x="268.71"
+       y="542.63"
+       width="268.88"
+       height="330.47"
+       rx="7.53"
+       ry="7.53"
+       id="rect889" />
+    <rect
+       class="cls-91"
+       x="270.71"
+       y="544.63"
+       width="264.88"
+       height="326.47"
+       rx="5.53"
+       ry="5.53"
+       id="rect891" />
+    <circle
+       class="cls-92"
+       cx="403.15"
+       cy="706.49"
+       r="72.54"
+       id="circle893" />
+    <circle
+       class="cls-93"
+       cx="403.15"
+       cy="706.49"
+       r="66.44"
+       transform="translate(-352.2 404.67) rotate(-38.51)"
+       id="circle895" />
+    <circle
+       class="cls-94"
+       cx="403.15"
+       cy="706.49"
+       r="64.93"
+       transform="translate(-352.2 404.67) rotate(-38.51)"
+       id="circle897" />
+    <path
+       class="cls-95"
+       d="M406.85,805.85l1.18,0,1.64-.1.75,0,1.9-.16.46,0,2.11-.23.23,0,2.27-.3h0a98.85,98.85,0,0,0,14-3.06l.08,0,2.14-.66.28-.09,1.91-.64.52-.18,1.65-.6.78-.3,1.36-.53,1.07-.44,1.06-.44,1.34-.59.77-.34,1.59-.74.49-.23,1.81-.9.26-.13,2-1,.07,0a98.86,98.86,0,0,0,12.06-7.73l0,0q.92-.69,1.82-1.4l.18-.14q.83-.66,1.66-1.34l.34-.28,1.47-1.24.56-.49,1.23-1.09.88-.82.9-.83q.87-.83,1.72-1.68l0,0,0,0q.85-.85,1.68-1.72l.83-.89.82-.88,1.09-1.22.5-.57c.42-.48.83-1,1.24-1.46l.29-.35q.68-.82,1.33-1.65l.14-.18q.71-.9,1.4-1.82l0,0a98.86,98.86,0,0,0,7.73-12.05l0-.07q.53-1,1-2l.13-.26q.46-.9.9-1.81l.23-.49q.38-.8.75-1.6L494,747q.3-.67.59-1.34l.44-1.06.43-1.06q.27-.68.53-1.36l.3-.78q.31-.83.6-1.66l.18-.51q.33-1,.65-1.92l.09-.28q.34-1.06.66-2.14l0-.08a98.85,98.85,0,0,0,3.06-14v0q.16-1.13.3-2.27l0-.23c.08-.7.16-1.4.23-2.11,0-.15,0-.31,0-.46.06-.63.11-1.27.16-1.9,0-.25,0-.5,0-.75,0-.54.07-1.09.1-1.63,0-.39,0-.79,0-1.18s0-.82,0-1.24q0-1.19,0-2.38s0-.06,0-.08,0-.06,0-.08q0-1.19,0-2.37c0-.41,0-.83,0-1.24s0-.79,0-1.18c0-.55-.06-1.09-.1-1.64,0-.25,0-.5,0-.75,0-.64-.1-1.27-.16-1.9,0-.15,0-.3,0-.46-.07-.71-.15-1.41-.23-2.11l0-.23q-.14-1.14-.3-2.28v0a98.85,98.85,0,0,0-3.06-14l0-.07q-.32-1.08-.66-2.15l-.09-.27q-.31-1-.65-1.92l-.18-.5q-.3-.83-.6-1.66l-.3-.78q-.26-.68-.53-1.36l-.43-1.06-.44-1.06q-.29-.67-.59-1.34l-.34-.76q-.36-.8-.74-1.59l-.24-.5q-.44-.91-.9-1.8l-.13-.26q-.51-1-1-2l0-.08a98.84,98.84,0,0,0-7.72-12l0,0q-.68-.91-1.39-1.82l-.15-.19q-.65-.83-1.33-1.65l-.3-.36c-.41-.49-.81-1-1.23-1.46l-.5-.57-1.08-1.22-.83-.9-.82-.88q-.85-.89-1.72-1.76h0q-.87-.87-1.76-1.72l-.88-.82-.89-.83-1.22-1.08-.57-.51L466.68,630l-.36-.3q-.82-.67-1.65-1.33l-.19-.15q-.9-.71-1.81-1.39l0,0a98.84,98.84,0,0,0-12-7.72l-.08,0-2-1-.27-.14-1.8-.89-.5-.24-1.58-.74-.77-.35-1.33-.58-1.07-.45-1.05-.43-1.37-.54-.77-.29-1.66-.6-.5-.18-1.93-.65-.26-.09-2.15-.66-.07,0a98.85,98.85,0,0,0-14-3.06h0l-2.29-.3-.22,0-2.12-.23-.44,0-1.92-.16-.73,0-1.66-.1-1.15,0-1.27,0-2.29,0H403l-2.29,0-1.27,0-1.15,0-1.65.1-.74,0-1.92.16-.43,0-2.13.23-.21,0-2.29.3h0a98.85,98.85,0,0,0-14,3.06l-.06,0-2.16.67-.25.08-1.94.65-.5.18-1.67.61-.77.29-1.37.54-1.05.43L364,615l-1.33.58-.77.35-1.59.74-.49.24-1.81.9-.26.13-2,1-.08,0a98.83,98.83,0,0,0-12.05,7.73l0,0q-.92.69-1.82,1.4l-.17.13q-.84.66-1.67,1.34l-.33.28-1.48,1.25-.54.48-1.25,1.11-.83.77-.95.88q-.78.75-1.55,1.51l-.21.2a99.13,99.13,0,0,0-29.12,70.31h0a99.13,99.13,0,0,0,29.13,70.31h0l0,0q.85.85,1.72,1.68l.89.83.88.82,1.23,1.09.56.49,1.46,1.24.35.29q.82.68,1.65,1.33l.18.14q.9.71,1.82,1.39l0,0a98.85,98.85,0,0,0,12.05,7.72l.07,0,2,1,.26.13,1.81.9.5.24,1.59.74.77.34,1.34.59,1.06.44,1.06.43,1.37.54.78.29,1.66.6.51.18,1.92.65.27.09,2.14.66.08,0a98.86,98.86,0,0,0,14,3.06h0l2.28.3.23,0,2.11.23.46,0,1.9.16.75,0,1.63.1,1.18,0,1.24,0,2.37,0h.17l2.37,0Zm-61.33-157q1.43-1.43,2.92-2.78c.47-.43,1-.84,1.45-1.26s1-.91,1.56-1.34,1.26-1,1.9-1.49c.41-.31.81-.64,1.22-.94.7-.52,1.41-1,2.13-1.51l1.1-.77c.73-.49,1.48-1,2.23-1.43l1.13-.7c.73-.44,1.48-.86,2.23-1.28l1.25-.7c.7-.38,1.42-.74,2.14-1.09.49-.24,1-.49,1.47-.72.65-.31,1.31-.6,2-.89s1.15-.51,1.73-.75,1.18-.47,1.77-.7,1.34-.52,2-.76l1.56-.53c.76-.25,1.51-.5,2.27-.73l1.39-.39c.82-.23,1.65-.46,2.48-.67l1.3-.3c.86-.2,1.72-.39,2.58-.57l1.33-.24c.85-.15,1.71-.31,2.57-.43.51-.07,1-.13,1.54-.2.79-.1,1.59-.21,2.39-.29s1.37-.11,2.06-.16,1.27-.11,1.91-.14c1.33-.06,2.68-.1,4-.1h0c1.35,0,2.7,0,4,.1.63,0,1.26.09,1.89.14s1.39.09,2.07.16,1.58.18,2.38.29c.52.07,1,.12,1.55.2.86.13,1.71.28,2.56.43l1.34.24c.86.17,1.72.37,2.58.56l1.31.3c.83.2,1.65.43,2.47.67l1.4.4c.76.23,1.51.48,2.27.73l1.57.53c.67.24,1.34.5,2,.76s1.19.46,1.78.7,1.15.5,1.72.75,1.33.59,2,.9c.49.23,1,.48,1.46.72.72.36,1.44.72,2.15,1.1l1.24.69c.75.42,1.5.84,2.24,1.29l1.11.69c.76.47,1.51.95,2.25,1.44l1.08.75c.72.5,1.45,1,2.15,1.53.4.3.8.62,1.2.93.64.5,1.29,1,1.92,1.51s1,.87,1.53,1.32,1,.84,1.48,1.28q1.44,1.3,2.83,2.69l.17.17q1.39,1.39,2.69,2.83c.44.48.85,1,1.28,1.47s.89,1,1.32,1.54,1,1.27,1.5,1.91c.31.4.63.8.94,1.21.52.7,1,1.42,1.52,2.14.25.37.52.73.76,1.09.49.73,1,1.49,1.43,2.24.23.37.47.75.7,1.12.44.73.86,1.48,1.28,2.23.23.42.47.83.7,1.25.38.7.74,1.42,1.09,2.13.24.49.49,1,.73,1.47.31.65.6,1.31.89,2s.51,1.15.75,1.74.47,1.17.7,1.76.52,1.34.76,2c.18.52.35,1,.53,1.56.25.76.51,1.52.73,2.28.14.46.26.92.39,1.39.23.83.46,1.65.67,2.48.11.43.2.86.3,1.29.2.86.4,1.73.57,2.59.09.44.16.88.24,1.32.15.86.31,1.72.44,2.58.07.51.13,1,.19,1.53.1.8.21,1.6.29,2.4s.11,1.35.15,2,.11,1.29.14,1.94q.1,2,.1,3.94,0,.09,0,.17,0,2-.1,3.94c0,.65-.09,1.29-.14,1.94s-.09,1.36-.15,2-.19,1.6-.29,2.41c-.06.51-.12,1-.19,1.52-.13.86-.28,1.72-.44,2.58-.08.44-.15.88-.24,1.32-.17.87-.37,1.73-.57,2.6-.1.43-.19.86-.3,1.29-.21.83-.44,1.66-.67,2.49-.13.46-.25.92-.39,1.38-.23.77-.48,1.52-.74,2.28-.17.52-.34,1-.52,1.55-.24.68-.5,1.35-.76,2s-.45,1.18-.69,1.76-.5,1.16-.76,1.74-.58,1.31-.89,2c-.23.5-.49,1-.73,1.48-.36.71-.71,1.43-1.09,2.13-.23.42-.47.84-.7,1.26-.42.75-.84,1.49-1.28,2.22-.23.38-.47.76-.71,1.14-.47.75-.94,1.49-1.42,2.22-.25.37-.52.74-.78,1.11-.5.71-1,1.43-1.51,2.12-.31.41-.63.82-1,1.23-.49.63-1,1.27-1.49,1.89s-.89,1-1.34,1.56-.83,1-1.26,1.45q-1.35,1.49-2.78,2.92h0q-1.43,1.43-2.92,2.78c-.48.43-1,.84-1.46,1.26s-1,.9-1.56,1.34-1.26,1-1.9,1.49c-.41.31-.81.64-1.22.94-.7.52-1.42,1-2.13,1.52l-1.1.77c-.73.49-1.48,1-2.23,1.43l-1.13.7c-.73.44-1.48.86-2.23,1.28l-1.26.7c-.7.38-1.42.74-2.13,1.09-.49.24-1,.49-1.47.73-.65.31-1.31.6-2,.89s-1.15.51-1.74.75-1.17.47-1.76.7-1.34.52-2,.76l-1.56.53c-.76.25-1.51.5-2.28.73l-1.39.4c-.82.23-1.64.46-2.47.67l-1.3.3c-.86.2-1.72.39-2.58.57l-1.33.24c-.86.15-1.71.31-2.57.43-.51.07-1,.13-1.54.2-.8.1-1.59.21-2.39.29s-1.37.11-2.06.16-1.27.11-1.91.14c-1.34.07-2.68.1-4,.1s-2.69,0-4-.1c-.64,0-1.27-.09-1.91-.14s-1.38-.09-2.06-.16-1.59-.18-2.39-.29c-.51-.07-1-.12-1.54-.2-.86-.13-1.72-.28-2.57-.43l-1.33-.24c-.86-.17-1.72-.37-2.58-.56l-1.3-.3c-.83-.21-1.65-.44-2.47-.67l-1.39-.4c-.76-.23-1.52-.48-2.28-.73l-1.56-.53c-.68-.24-1.35-.5-2-.76s-1.18-.45-1.77-.7-1.16-.5-1.73-.75-1.32-.58-2-.89c-.49-.23-1-.48-1.46-.72-.72-.36-1.43-.72-2.14-1.1l-1.25-.7c-.75-.42-1.5-.84-2.23-1.28l-1.12-.7c-.75-.47-1.5-.94-2.24-1.44l-1.09-.76c-.72-.5-1.44-1-2.14-1.52-.41-.3-.8-.62-1.21-.93-.64-.5-1.29-1-1.91-1.5s-1-.88-1.53-1.32-1-.84-1.48-1.28q-1.44-1.31-2.83-2.69a81.24,81.24,0,0,1-24-57.71h0A81.25,81.25,0,0,1,345.52,648.86Z"
+       id="path899" />
+    <path
+       class="cls-96"
+       d="M473.47,636.18l-12.69,12.69A81.5,81.5,0,1,1,403.15,625h0V607.05a99.44,99.44,0,1,0,70.31,29.13Z"
+       id="path901" />
+    <rect
+       class="cls-97"
+       x="303.71"
+       y="825"
+       width="200.82"
+       height="33.29"
+       rx="3.88"
+       ry="3.88"
+       id="rect903" />
+    <rect
+       class="cls-98"
+       x="306.71"
+       y="828"
+       width="194.82"
+       height="27.29"
+       rx="0.88"
+       ry="0.88"
+       id="rect905" />
+    <circle
+       class="cls-99"
+       cx="504.11"
+       cy="576.11"
+       r="17.69"
+       id="circle907" />
+    <circle
+       class="cls-100"
+       cx="504.11"
+       cy="576.11"
+       r="12.28"
+       id="circle909" />
+    <circle
+       class="cls-101"
+       cx="504.11"
+       cy="576.11"
+       r="7.99"
+       id="circle911" />
+    <circle
+       class="cls-102"
+       cx="504.11"
+       cy="576.11"
+       r="6.84"
+       id="circle913" />
+    <rect
+       class="cls-103"
+       x="730.48"
+       y="334.83"
+       width="566.56"
+       height="164.17"
+       rx="7.53"
+       ry="7.53"
+       id="rect915" />
+    <rect
+       class="cls-104"
+       x="733.32"
+       y="337.67"
+       width="560.88"
+       height="158.49"
+       rx="5.53"
+       ry="5.53"
+       id="rect917" />
+    <path
+       class="cls-105"
+       d="M1013.76,465a48.14,48.14,0,1,1,48.13-48.14A48.19,48.19,0,0,1,1013.76,465Zm0-90.27a42.14,42.14,0,1,0,42.13,42.13A42.18,42.18,0,0,0,1013.76,374.78Z"
+       id="path919" />
+    <path
+       class="cls-106"
+       d="M1013.76,371.78a45.13,45.13,0,1,1-45.13,45.13,45.13,45.13,0,0,1,45.13-45.13"
+       id="path921" />
+    <path
+       class="cls-107"
+       d="M1033.4,415l-27-17.1a2.24,2.24,0,0,0-3.44,1.9V434a2.24,2.24,0,0,0,3.44,1.9l27-17.1A2.24,2.24,0,0,0,1033.4,415Z"
+       id="path923" />
+    <path
+       class="cls-108"
+       d="M1128,448.87a32,32,0,1,1,32-32A32,32,0,0,1,1128,448.87Z"
+       id="path925" />
+    <circle
+       class="cls-109"
+       cx="1128.04"
+       cy="416.91"
+       r="28.96"
+       id="circle927" />
+    <path
+       class="cls-110"
+       d="M1129.84,416.1l-11.56-7.32a1,1,0,0,0-1.47.81v14.63a1,1,0,0,0,1.47.81l11.56-7.32A1,1,0,0,0,1129.84,416.1Z"
+       id="path929" />
+    <path
+       class="cls-111"
+       d="M1143.31,416.1l-11.56-7.32a1,1,0,0,0-1.47.81v14.63a1,1,0,0,0,1.47.81l11.56-7.32A1,1,0,0,0,1143.31,416.1Z"
+       id="path931" />
+    <path
+       class="cls-112"
+       d="M899.49,448.87a32,32,0,1,1,32-32A32,32,0,0,1,899.49,448.87Z"
+       id="path933" />
+    <circle
+       class="cls-113"
+       cx="899.49"
+       cy="416.91"
+       r="28.96"
+       id="circle935" />
+    <path
+       class="cls-114"
+       d="M897.69,417.72,909.24,425a1,1,0,0,0,1.47-.81V409.6a1,1,0,0,0-1.47-.81l-11.56,7.32A1,1,0,0,0,897.69,417.72Z"
+       id="path937" />
+    <path
+       class="cls-115"
+       d="M884.21,417.72,895.77,425a1,1,0,0,0,1.47-.81V409.6a1,1,0,0,0-1.47-.81l-11.56,7.32A1,1,0,0,0,884.21,417.72Z"
+       id="path939" />
+    <path
+       class="cls-116"
+       d="M1226.14,448.87a32,32,0,1,1,32-32A32,32,0,0,1,1226.14,448.87Z"
+       id="path941" />
+    <circle
+       class="cls-117"
+       cx="1226.14"
+       cy="416.91"
+       r="28.96"
+       id="circle943" />
+    <path
+       class="cls-118"
+       d="M1233.29,403.72a1.4,1.4,0,0,0-1.34,2.46,12.22,12.22,0,1,1-9.9-.75v2.67a.58.58,0,0,0,.89.49l7-4.43a.58.58,0,0,0,0-1l-7-4.43a.58.58,0,0,0-.89.49v3.26a15,15,0,1,0,11.24,1.23Z"
+       id="path945" />
+    <path
+       class="cls-119"
+       d="M801.39,448.87a32,32,0,1,1,32-32A32,32,0,0,1,801.39,448.87Zm0-57.91a26,26,0,1,0,26,26A26,26,0,0,0,801.39,391Z"
+       id="path947" />
+    <path
+       class="cls-120"
+       d="M772.43,416.91a29,29,0,1,1,29,29,29,29,0,0,1-29-29"
+       id="path949" />
+    <path
+       class="cls-121"
+       d="M810.68,421.66a.4.4,0,0,0-.61.33v1.62h-2.76l-6.69-6.69,6.69-6.69h2.76v1.62a.4.4,0,0,0,.61.33l4.76-3a.4.4,0,0,0,0-.67l-4.76-3a.4.4,0,0,0-.61.33v1.62h-2.89a2.46,2.46,0,0,0-1.75.72l-6.79,6.79-6.79-6.79a2.46,2.46,0,0,0-1.75-.72h-3.46a1.4,1.4,0,1,0,0,2.8H790l6.69,6.69L790,423.61h-3.33a1.4,1.4,0,1,0,0,2.8h3.46a2.46,2.46,0,0,0,1.75-.72l6.79-6.79,6.79,6.79a2.46,2.46,0,0,0,1.75.72h2.89V428a.4.4,0,0,0,.61.33l4.76-3a.4.4,0,0,0,0-.67Z"
+       id="path951" />
+    <rect
+       class="cls-122"
+       x="990.77"
+       y="106.9"
+       width="79.23"
+       height="20.6"
+       rx="10.3"
+       ry="10.3"
+       id="rect953" />
+    <path
+       class="cls-123"
+       d="M1001.07,125.5a8.3,8.3,0,1,1,0-16.6h58.63a8.3,8.3,0,0,1,0,16.6Z"
+       id="path955" />
+    <path
+       class="cls-124"
+       d="M1001.07,123.5a6.3,6.3,0,1,1,0-12.6h58.63a6.3,6.3,0,0,1,0,12.6Z"
+       id="path957" />
+    <rect
+       class="cls-125"
+       x="1104.75"
+       y="106.9"
+       width="79.23"
+       height="20.6"
+       rx="10.3"
+       ry="10.3"
+       id="rect959" />
+    <path
+       class="cls-126"
+       d="M1115.05,125.5a8.3,8.3,0,0,1,0-16.6h58.63a8.3,8.3,0,0,1,0,16.6Z"
+       id="path961" />
+    <path
+       class="cls-127"
+       d="M1115.05,123.5a6.3,6.3,0,0,1,0-12.6h58.63a6.3,6.3,0,0,1,0,12.6Z"
+       id="path963" />
+    <rect
+       class="cls-128"
+       x="1218.73"
+       y="106.9"
+       width="79.23"
+       height="20.6"
+       rx="10.3"
+       ry="10.3"
+       id="rect965" />
+    <path
+       class="cls-129"
+       d="M1229,125.5a8.3,8.3,0,1,1,0-16.6h58.63a8.3,8.3,0,0,1,0,16.6Z"
+       id="path967" />
+    <path
+       class="cls-130"
+       d="M1229,123.5a6.3,6.3,0,1,1,0-12.6h58.63a6.3,6.3,0,0,1,0,12.6Z"
+       id="path969" />
+    <rect
+       class="cls-131"
+       x="990.77"
+       y="139.14"
+       width="307.18"
+       height="154.97"
+       rx="7.53"
+       ry="7.53"
+       id="rect971" />
+    <rect
+       class="cls-132"
+       x="994.01"
+       y="142.38"
+       width="300.71"
+       height="148.5"
+       rx="5.53"
+       ry="5.53"
+       id="rect973" />
+    <circle
+       class="cls-133"
+       cx="1030.39"
+       cy="180.58"
+       r="20.85"
+       id="circle975" />
+    <circle
+       class="cls-134"
+       cx="1030.39"
+       cy="180.58"
+       r="18.55"
+       id="circle977" />
+    <circle
+       class="cls-135"
+       cx="1030.39"
+       cy="180.58"
+       r="16.99"
+       transform="translate(111.66 680.83) rotate(-38.51)"
+       id="circle979" />
+    <circle
+       class="cls-136"
+       cx="1030.39"
+       cy="180.58"
+       r="16.6"
+       transform="translate(111.66 680.83) rotate(-38.51)"
+       id="circle981" />
+    <rect
+       class="cls-137"
+       x="1023.41"
+       y="167.95"
+       width="0.96"
+       height="3.93"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(52.22 534.71) rotate(-30)"
+       id="rect983" />
+    <circle
+       class="cls-138"
+       cx="1030.39"
+       cy="253.7"
+       r="20.85"
+       id="circle985" />
+    <circle
+       class="cls-139"
+       cx="1030.39"
+       cy="253.7"
+       r="18.55"
+       id="circle987" />
+    <circle
+       class="cls-140"
+       cx="1030.39"
+       cy="253.7"
+       r="16.99"
+       transform="translate(66.13 696.73) rotate(-38.51)"
+       id="circle989" />
+    <circle
+       class="cls-141"
+       cx="1030.39"
+       cy="253.7"
+       r="16.6"
+       transform="translate(-23.82 132.4) rotate(-7.27)"
+       id="circle991" />
+    <rect
+       class="cls-142"
+       x="1028.41"
+       y="240.73"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(766.91 1266.12) rotate(-88.76)"
+       id="rect993" />
+    <circle
+       class="cls-143"
+       cx="1144.37"
+       cy="180.58"
+       r="20.85"
+       id="circle995" />
+    <circle
+       class="cls-144"
+       cx="1144.37"
+       cy="180.58"
+       r="18.55"
+       id="circle997" />
+    <circle
+       class="cls-145"
+       cx="1144.37"
+       cy="180.58"
+       r="16.99"
+       transform="translate(136.45 751.79) rotate(-38.51)"
+       id="circle999" />
+    <circle
+       class="cls-146"
+       cx="1144.37"
+       cy="180.58"
+       r="16.6"
+       transform="translate(835.57 1297.2) rotate(-83.51)"
+       id="circle1001" />
+    <rect
+       class="cls-147"
+       x="1145.36"
+       y="167.97"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(687.66 1233.08) rotate(-75)"
+       id="rect1003" />
+    <circle
+       class="cls-148"
+       cx="1144.37"
+       cy="253.7"
+       r="20.85"
+       id="circle1005" />
+    <circle
+       class="cls-149"
+       cx="1144.37"
+       cy="253.7"
+       r="18.55"
+       id="circle1007" />
+    <circle
+       class="cls-150"
+       cx="1144.37"
+       cy="253.7"
+       r="16.99"
+       transform="translate(90.92 767.7) rotate(-38.51)"
+       id="circle1009" />
+    <circle
+       class="cls-151"
+       cx="1144.37"
+       cy="253.7"
+       r="16.6"
+       transform="translate(762.92 1362.05) rotate(-83.51)"
+       id="circle1011" />
+    <rect
+       class="cls-152"
+       x="1139.45"
+       y="265.35"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(589.21 1299.55) rotate(-75)"
+       id="rect1013" />
+    <circle
+       class="cls-153"
+       cx="1258.34"
+       cy="180.58"
+       r="20.85"
+       id="circle1015" />
+    <circle
+       class="cls-154"
+       cx="1258.34"
+       cy="180.58"
+       r="18.55"
+       id="circle1017" />
+    <circle
+       class="cls-155"
+       cx="1258.34"
+       cy="180.58"
+       r="16.99"
+       transform="translate(161.24 822.76) rotate(-38.51)"
+       id="circle1019" />
+    <circle
+       class="cls-156"
+       cx="1258.34"
+       cy="180.58"
+       r="16.6"
+       transform="translate(353.63 1073.63) rotate(-52.79)"
+       id="circle1021" />
+    <rect
+       class="cls-157"
+       x="1265.12"
+       y="171.18"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(240.17 933.51) rotate(-44.29)"
+       id="rect1023" />
+    <circle
+       class="cls-158"
+       cx="1258.34"
+       cy="253.7"
+       r="20.85"
+       id="circle1025" />
+    <circle
+       class="cls-159"
+       cx="1258.34"
+       cy="253.7"
+       r="18.55"
+       id="circle1027" />
+    <circle
+       class="cls-160"
+       cx="1258.34"
+       cy="253.7"
+       r="16.99"
+       transform="translate(115.71 838.66) rotate(-38.51)"
+       id="circle1029" />
+    <circle
+       class="cls-161"
+       cx="1258.34"
+       cy="253.7"
+       r="16.6"
+       transform="translate(115.71 838.66) rotate(-38.51)"
+       id="circle1031" />
+    <rect
+       class="cls-162"
+       x="1251.37"
+       y="241.07"
+       width="0.96"
+       height="3.93"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(46.2 658.48) rotate(-30)"
+       id="rect1033" />
+    <circle
+       class="cls-163"
+       cx="1087.38"
+       cy="180.58"
+       r="20.85"
+       id="circle1035" />
+    <circle
+       class="cls-164"
+       cx="1087.38"
+       cy="180.58"
+       r="18.55"
+       id="circle1037" />
+    <circle
+       class="cls-165"
+       cx="1087.38"
+       cy="180.58"
+       r="16.99"
+       transform="translate(124.05 716.31) rotate(-38.51)"
+       id="circle1039" />
+    <circle
+       class="cls-166"
+       cx="1087.38"
+       cy="180.58"
+       r="16.6"
+       transform="translate(620.9 1179.28) rotate(-74.39)"
+       id="circle1041" />
+    <rect
+       class="cls-167"
+       x="1075.38"
+       y="173.78"
+       width="0.96"
+       height="3.93"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(475.88 1085.9) rotate(-65.88)"
+       id="rect1043" />
+    <circle
+       class="cls-168"
+       cx="1087.38"
+       cy="253.7"
+       r="20.85"
+       id="circle1045" />
+    <circle
+       class="cls-169"
+       cx="1087.38"
+       cy="253.7"
+       r="18.55"
+       id="circle1047" />
+    <circle
+       class="cls-170"
+       cx="1087.38"
+       cy="253.7"
+       r="16.99"
+       transform="translate(78.53 732.21) rotate(-38.51)"
+       id="circle1049" />
+    <circle
+       class="cls-171"
+       cx="1087.38"
+       cy="253.7"
+       r="16.6"
+       transform="translate(365.85 1105.85) rotate(-62.88)"
+       id="circle1051" />
+    <rect
+       class="cls-172"
+       x="1097.21"
+       y="258.78"
+       width="0.96"
+       height="3.93"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(246.29 1001.03) rotate(-54.37)"
+       id="rect1053" />
+    <circle
+       class="cls-173"
+       cx="1201.35"
+       cy="180.58"
+       r="20.85"
+       id="circle1055" />
+    <circle
+       class="cls-174"
+       cx="1201.35"
+       cy="180.58"
+       r="18.55"
+       id="circle1057" />
+    <circle
+       class="cls-175"
+       cx="1201.35"
+       cy="180.58"
+       r="16.99"
+       transform="translate(148.84 787.28) rotate(-38.51)"
+       id="circle1059" />
+    <circle
+       class="cls-176"
+       cx="1201.35"
+       cy="180.58"
+       r="16.6"
+       transform="translate(40.4 538.42) rotate(-25.68)"
+       id="circle1061" />
+    <rect
+       class="cls-177"
+       x="1187.55"
+       y="184.06"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="matrix(0.96, -0.3, 0.3, 0.96, -1.46, 359.39)"
+       id="rect1063" />
+    <circle
+       class="cls-178"
+       cx="1201.35"
+       cy="253.7"
+       r="20.85"
+       id="circle1065" />
+    <circle
+       class="cls-179"
+       cx="1201.35"
+       cy="253.7"
+       r="18.55"
+       id="circle1067" />
+    <circle
+       class="cls-180"
+       cx="1201.35"
+       cy="253.7"
+       r="16.99"
+       transform="translate(103.32 803.18) rotate(-38.51)"
+       id="circle1069" />
+    <circle
+       class="cls-181"
+       cx="1201.35"
+       cy="253.7"
+       r="16.6"
+       transform="translate(-25.94 216.68) rotate(-10.2)"
+       id="circle1071" />
+    <rect
+       class="cls-182"
+       x="1186.92"
+       y="253.87"
+       width="3.93"
+       height="0.96"
+       rx="0.48"
+       ry="0.48"
+       transform="translate(-6.98 35.13) rotate(-1.69)"
+       id="rect1073" />
+    <rect
+       class="cls-183"
+       x="845.71"
+       y="542.63"
+       width="268.88"
+       height="330.47"
+       rx="7.53"
+       ry="7.53"
+       id="rect1075" />
+    <rect
+       class="cls-184"
+       x="847.71"
+       y="544.63"
+       width="264.88"
+       height="326.47"
+       rx="5.53"
+       ry="5.53"
+       id="rect1077" />
+    <rect
+       class="cls-185"
+       x="865.78"
+       y="578.58"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1079" />
+    <rect
+       class="cls-186"
+       x="868.7"
+       y="581.5"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1081" />
+    <rect
+       class="cls-187"
+       x="871.62"
+       y="584.42"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1083" />
+    <rect
+       class="cls-188"
+       x="872.49"
+       y="585.29"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1085" />
+    <rect
+       class="cls-189"
+       x="994.11"
+       y="578.58"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1087" />
+    <rect
+       class="cls-190"
+       x="997.03"
+       y="581.5"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1089" />
+    <rect
+       class="cls-191"
+       x="999.95"
+       y="584.42"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1091" />
+    <rect
+       class="cls-192"
+       x="1000.82"
+       y="585.29"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1093" />
+    <rect
+       class="cls-193"
+       x="865.78"
+       y="635.24"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1095" />
+    <rect
+       class="cls-194"
+       x="868.7"
+       y="638.16"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1097" />
+    <rect
+       class="cls-195"
+       x="871.62"
+       y="641.09"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1099" />
+    <rect
+       class="cls-196"
+       x="872.49"
+       y="641.96"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1101" />
+    <rect
+       class="cls-197"
+       x="994.11"
+       y="635.24"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1103" />
+    <rect
+       class="cls-198"
+       x="997.03"
+       y="638.16"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1105" />
+    <rect
+       class="cls-199"
+       x="999.95"
+       y="641.09"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1107" />
+    <rect
+       class="cls-200"
+       x="1000.82"
+       y="641.96"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1109" />
+    <rect
+       class="cls-201"
+       x="865.78"
+       y="691.91"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1111" />
+    <rect
+       class="cls-202"
+       x="868.7"
+       y="694.83"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1113" />
+    <rect
+       class="cls-203"
+       x="871.62"
+       y="697.75"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1115" />
+    <rect
+       class="cls-204"
+       x="872.49"
+       y="698.62"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1117" />
+    <rect
+       class="cls-205"
+       x="994.11"
+       y="691.91"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1119" />
+    <rect
+       class="cls-206"
+       x="997.03"
+       y="694.83"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1121" />
+    <rect
+       class="cls-207"
+       x="999.95"
+       y="697.75"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1123" />
+    <rect
+       class="cls-208"
+       x="1000.82"
+       y="698.62"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1125" />
+    <rect
+       class="cls-209"
+       x="865.78"
+       y="748.58"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1127" />
+    <rect
+       class="cls-210"
+       x="868.7"
+       y="751.5"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1129" />
+    <rect
+       class="cls-211"
+       x="871.62"
+       y="754.42"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1131" />
+    <rect
+       class="cls-212"
+       x="872.49"
+       y="755.29"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1133" />
+    <rect
+       class="cls-213"
+       x="994.11"
+       y="748.58"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1135" />
+    <rect
+       class="cls-214"
+       x="997.03"
+       y="751.5"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1137" />
+    <rect
+       class="cls-215"
+       x="999.95"
+       y="754.42"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1139" />
+    <rect
+       class="cls-216"
+       x="1000.82"
+       y="755.29"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1141" />
+    <rect
+       class="cls-217"
+       x="865.78"
+       y="805.24"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1143" />
+    <rect
+       class="cls-218"
+       x="868.7"
+       y="808.16"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1145" />
+    <rect
+       class="cls-219"
+       x="871.62"
+       y="811.09"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1147" />
+    <rect
+       class="cls-220"
+       x="872.49"
+       y="811.96"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1149" />
+    <rect
+       class="cls-221"
+       x="994.11"
+       y="805.24"
+       width="100.41"
+       height="31.92"
+       rx="14.95"
+       ry="14.95"
+       id="rect1151" />
+    <rect
+       class="cls-222"
+       x="997.03"
+       y="808.16"
+       width="94.56"
+       height="26.07"
+       rx="13.04"
+       ry="13.04"
+       id="rect1153" />
+    <rect
+       class="cls-223"
+       x="999.95"
+       y="811.09"
+       width="88.72"
+       height="20.23"
+       rx="10.12"
+       ry="10.12"
+       id="rect1155" />
+    <rect
+       class="cls-224"
+       x="1000.82"
+       y="811.96"
+       width="86.98"
+       height="18.49"
+       rx="9.24"
+       ry="9.24"
+       id="rect1157" />
+    <circle
+       class="cls-225"
+       cx="1228.38"
+       cy="707.87"
+       r="59.6"
+       id="circle1159" />
+    <path
+       class="cls-226"
+       d="M1228.38,639.15a68.72,68.72,0,1,0,68.72,68.72A68.72,68.72,0,0,0,1228.38,639.15Zm0,130.82a62.1,62.1,0,1,1,62.1-62.1A62.1,62.1,0,0,1,1228.38,770Z"
+       id="path1161" />
+    <circle
+       class="cls-227"
+       cx="1228.38"
+       cy="707.87"
+       r="53.01"
+       id="circle1163" />
+    <circle
+       class="cls-228"
+       cx="1228.38"
+       cy="707.87"
+       r="48.55"
+       transform="translate(-173.59 918.78) rotate(-38.51)"
+       id="circle1165" />
+    <circle
+       class="cls-229"
+       cx="1228.38"
+       cy="707.87"
+       r="47.45"
+       transform="translate(-173.59 918.78) rotate(-38.51)"
+       id="circle1167" />
+    <rect
+       class="cls-7"
+       x="1251.61"
+       y="726.94"
+       width="2.76"
+       height="11.22"
+       rx="1.38"
+       ry="1.38"
+       transform="translate(-151 1100.56) rotate(-45)"
+       id="rect1169" />
+    <path
+       class="cls-230"
+       d="M1297.1,707.87a68.72,68.72,0,1,0-117.31,48.59l4.68-4.68a62.1,62.1,0,1,1,106-43.91h0a61.9,61.9,0,0,1-18.19,43.91l4.68,4.68a68.51,68.51,0,0,0,20.13-48.59h0Z"
+       id="path1171" />
+  </g>
+  <g
+     id="TEXT">
+    <text
+       class="cls-231"
+       transform="translate(649.41 843)"
+       id="text1174">BUTTON</text>
+    <text
+       class="cls-232"
+       transform="translate(649.41 714.39)"
+       id="text1176">BUTTON</text>
+    <text
+       class="cls-233"
+       transform="translate(649.41 585.78)"
+       id="text1178">BUTTON</text>
+    <text
+       class="cls-234"
+       transform="translate(365.64 730.15)"
+       id="text1180">80</text>
+    <text
+       class="cls-235"
+       transform="translate(432.56 696.77)"
+       id="text1182">%</text>
+    <text
+       class="cls-236"
+       transform="translate(318.16 845.22)"
+       id="text1184">Now Playing ...</text>
+    <text
+       class="cls-237"
+       transform="translate(118.2 853.21)"
+       id="text1186">OUTPUT</text>
+    <text
+       class="cls-237"
+       transform="translate(130.31 573.4)"
+       id="text1188">BASS</text>
+    <text
+       class="cls-237"
+       transform="translate(121.9 311.84)"
+       id="text1190">TREBLE</text>
+    <text
+       class="cls-238"
+       transform="translate(314.77 477.82)"
+       id="text1192">MAIN</text>
+    <text
+       class="cls-239"
+       transform="translate(461.31 477.82)"
+       id="text1194">OUTPUT</text>
+    <text
+       class="cls-239"
+       transform="translate(614.57 477.82)"
+       id="text1196">OUTPUT</text>
+    <text
+       class="cls-232"
+       transform="translate(830 264.01)"
+       id="text1198">ON</text>
+    <text
+       class="cls-233"
+       transform="translate(827.19 150.04)"
+       id="text1200">OFF</text>
+    <text
+       class="cls-240"
+       transform="translate(913.33 569.88)"
+       id="text1202">A</text>
+    <text
+       class="cls-240"
+       transform="translate(1041.67 569.88)"
+       id="text1204">B</text>
+    <text
+       class="cls-240"
+       transform="translate(913.44 626.88)"
+       id="text1206">C</text>
+    <text
+       class="cls-240"
+       transform="translate(1041.38 626.88)"
+       id="text1208">D</text>
+    <text
+       class="cls-240"
+       transform="translate(913.75 683.88)"
+       id="text1210">E</text>
+    <text
+       class="cls-240"
+       transform="translate(1042.18 683.88)"
+       id="text1212">F</text>
+    <text
+       class="cls-240"
+       transform="translate(913.07 740.88)"
+       id="text1214">G</text>
+    <text
+       class="cls-240"
+       transform="translate(1041.31 740.88)"
+       id="text1216">H</text>
+    <text
+       class="cls-240"
+       transform="translate(914.76 797.88)"
+       id="text1218">I</text>
+    <text
+       class="cls-240"
+       transform="translate(1043.12 797.88)"
+       id="text1220">J</text>
+    <text
+       class="cls-237"
+       transform="translate(1198.86 853.21)"
+       id="text1222">MASTER</text>
+  </g>
+  <metadata
+     id="metadata2044">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>EEZY</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

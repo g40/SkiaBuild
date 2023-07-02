@@ -30,7 +30,7 @@ def main():
     # 'skia_use_icu=true',
     'skia_use_system_icu=false',
     # 'skia_enable_skshaper=true',
-    # 'skia_enable_svg=true',
+    'skia_enable_svg=true',
     'skia_enable_skottie=true'
   ]
 
@@ -70,9 +70,15 @@ def main():
     args += [
       'skia_use_system_freetype2=false',
       # 'skia_use_angle=true',
-      'skia_use_direct3d=true',
+      #'skia_use_direct3d=true',
       'extra_cflags=["-DSK_FONT_HOST_USE_SYSTEM_SETTINGS"]',
     ]
+    # ensure we get the right runtime libraries
+    if build_type == 'Debug':
+      args += [ 'extra_cflags_cc=["/MTd"]' ]
+    else:
+      args += [ 'extra_cflags_cc=["/MT"]' ]
+
   elif 'android' == system:
     args += [
       'skia_use_system_freetype2=false',
@@ -80,10 +86,15 @@ def main():
     ]
 
   out = os.path.join('out', build_type + '-' + machine)
+  print(f"out: {out} args: {args}")
   gn = 'gn.exe' if 'windows' == system else 'gn'
+  print(f"check_call {gn}")
   subprocess.check_call([os.path.join('bin', gn), 'gen', out, '--args=' + ' '.join(args)])
   ninja = 'ninja.exe' if 'windows' == system else 'ninja'
-  subprocess.check_call([os.path.join('..', 'depot_tools', ninja), '-C', out, 'skia', 'modules'])
+  print(f"check_call {ninja}")
+  # subprocess.check_call([os.path.join('..', 'depot_tools', ninja), '-C', out, 'skia', 'modules'])
+  # subprocess.check_call([ninja, '-C', out, 'skia', 'modules'])
+  subprocess.check_call([ninja, '-C', out, '-v','-j', '4', 'skia', 'modules'])
 
   return 0
 

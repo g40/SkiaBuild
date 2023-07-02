@@ -34,7 +34,8 @@ def main():
       subprocess.check_call(["git", "checkout", branch])
   else:
     print("> Cloning", branch)
-    subprocess.check_call(["git", "clone", "https://skia.googlesource.com/skia", "--quiet", "--branch", branch, "skia"])
+    #subprocess.check_call(["git", "clone", "https://skia.googlesource.com/skia", "--quiet", "--branch", branch, "skia"])
+    subprocess.check_call(["git", "clone", "https://skia.googlesource.com/skia", "--branch", branch, "skia"])
     os.chdir("skia")
 
   # Checkout commit
